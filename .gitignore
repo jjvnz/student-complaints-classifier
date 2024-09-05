@@ -1,0 +1,25 @@
+# Ignorar archivos de resultados
+results/
+train_dataset/
+val_dataset/
+
+# Ignorar el modelo entrenado
+fine-tuned-model/
+
+# Ignorar entorno virtual
+env_translt/
+venv/
+
+# Ignorar archivos temporales y de caché de Python
+*.pyc
+__pycache__/
+
+# Archivos de configuración del IDE
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+
+# Ignorar archivos de log
+*.log
