@@ -1,16 +1,29 @@
 # Ignorar archivos de resultados
 results/
-train_dataset/
-val_dataset/
+!results/checkpoint-303
+!results/evaluation_report.txt
 
 # Ignorar el modelo entrenado
 fine-tuned-model/
+!fine-tuned-model/config.json
+!fine-tuned-model/model.safetensors
+!fine-tuned-model/special_tokens_map.json
+!fine-tuned-model/tokenizer_config.json
+!fine-tuned-model/tokenizer.json
+!fine-tuned-model/vocab.txt
 
-# Ignorar entorno virtual
+# Ignorar datasets tokenizados
+train_dataset/
+val_dataset/
+
+# Ignorar archivos de configuración local de Python
+*.pyc
+__pycache__/
+
+# Entorno virtual
 env_translt/
-venv/
 
-# Ignorar archivos temporales y de caché de Python
+# Archivos de caché
 *.pyc
 __pycache__/
 
@@ -18,8 +31,12 @@ __pycache__/
 .vscode/
 .idea/
 
-# Archivos del sistema
+# Archivos de configuración del sistema
 .DS_Store
 
 # Ignorar archivos de log
 *.log
+
+# Ignorar archivos temporales de trabajo
+*.tmp
+*.swp
