@@ -17,11 +17,13 @@ StudentComplaintsClassifier/
 │   └── university_students_complaints_val.csv
 │
 ├── scripts/
-│   ├── label_data.py
-│   ├── separete_dataset.py
-│   ├── tokenizar.py
+│   ├── generate_data.py
+│   ├── separate_dataset.py
+│   ├── run_tokenizer.py
 │   ├── train_model.py
-│   └── evaluate_model.py
+│   ├── evaluate_model.py
+│   ├── test_inference.py
+│   └── gradio_interface.py
 │
 ├── results/
 │   └── evaluation_report.txt
@@ -43,8 +45,8 @@ StudentComplaintsClassifier/
 
 - **`scripts/`**: Contiene los scripts de Python para el procesamiento y entrenamiento.
   - **`label_data.py`**: Script para etiquetar los datos.
-  - **`separete_dataset.py`**: Script para dividir los datos en conjuntos de entrenamiento y validación.
-  - **`tokenizar.py`**: Script para tokenizar los datos utilizando el tokenizer de DistilBERT.
+  - **`separate_dataset.py`**: Script para dividir los datos en conjuntos de entrenamiento y validación.
+  - **`run_tokenizer.py`**: Script para tokenizar los datos utilizando el tokenizer de DistilBERT.
   - **`train_model.py`**: Script para entrenar el modelo DistilBERT con los datos tokenizados.
 - **`data/`**: Contiene los archivos CSV con quejas.
   - **`university_students_complaints_es.csv`**: Archivo CSV con las quejas originales en español.
@@ -60,44 +62,54 @@ StudentComplaintsClassifier/
 
 ## Requisitos
 
-- **Python 3.7** o superior
+- **Python 3.10** o superior
 - **transformers**
 - **datasets**
 - **pandas**
 - **scikit-learn**
+- **gradio**
 
 Instala los requisitos utilizando `pip`:
 
 ```bash
-pip install transformers datasets pandas scikit-learn
+pip install -r requirements.txt
 ```
 
 ## Instrucciones para Ejecutar el Proyecto
 
 ### 1. Preparar los Datos
 
-1. Etiqueta tus datos ejecutando el script `label_data.py`.
-2. Divide los datos en conjuntos de entrenamiento y validación.
+1. Genera datos datos ejecutando el script `scripts/generate_data.py`.
+2. Divide los datos en conjuntos de entrenamiento y validación, ejecutando el script `scripts/separate_dataset.py`.
 
 ### 2. Tokenizar los Datos
 
-Ejecuta el script `tokenizar.py` para tokenizar los datos:
+Ejecuta el script `scripts/run_tokenizer.py` para tokenizar los datos:
 
 ```bash
-python3 tokenizar.py
+python scripts/run_tokenizer.py
 ```
 
 ### 3. Entrenar el Modelo
 
-Ejecuta el script `train_model.py` para entrenar el modelo:
+Ejecuta el script `scripts/train_model.py` para entrenar el modelo:
 
 ```bash
-python3 train_model.py
+python scripts/train_model.py
 ```
 
 ### 4. Guardar el Modelo Entrenado
 
 El modelo entrenado se guardará en el directorio `./fine-tuned-model`.
+
+### 5. Correr modelo con Gradio
+
+```bash
+python scripts/gradio_interface.py
+```
+
+Abre la url http://localhost:7860 en el navegador.
+
 
 ## Resultados
 
@@ -114,14 +126,6 @@ Después de entrenar el modelo, se realizó una evaluación utilizando el conjun
 - **Exactitud (Accuracy)**: 1.00
 
 Estos resultados indican un rendimiento perfecto en el conjunto de validación. 
-
-### Guardar el Modelo
-
-El modelo entrenado se puede guardar para su uso futuro con los siguientes comandos:
-
-```bash
-python save_model.py
-```
 
 ## Contribuciones
 

@@ -23,7 +23,7 @@ with torch.no_grad():
     predictions = torch.argmax(outputs.logits, dim=1).tolist()
 
 # Calcular y mostrar métricas de evaluación
-report = classification_report(true_label, predictions, target_names=["Queja"])
+report = classification_report(true_label, predictions)
 print(report)
 
 # Guardar el informe de clasificación en un archivo

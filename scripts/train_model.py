@@ -32,10 +32,8 @@ trainer = Trainer(
     tokenizer=tokenizer,
 )
 
-# Entrenar el modelo
 trainer.train()
 
-# Guardar el modelo entrenado
 model.save_pretrained('./fine-tuned-model')
 tokenizer.save_pretrained('./fine-tuned-model')
 

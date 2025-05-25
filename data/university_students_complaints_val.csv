@@ -1,202 +1,635 @@
 complaints,label
-"2. ""Ojalá hubiera más opciones veganas en la cafetería.""",1
-"21. ""Puede ser difícil encontrar un terreno común con personas de culturas y orígenes muy diferentes"".",1
-El aumento del tiempo de pantalla de las clases en línea puede causar tensión ocular y fatiga.,1
-Es frustrante que la atención de la salud mental siga siendo estigmatizada y no esté fácilmente disponible.,1
-"He estado luchando para encontrar oportunidades de trabajo que paguen un salario justo, lo que hace difícil mantenerme económicamente.",1
-La disponibilidad limitada de profesores durante las clases en línea ha hecho difícil obtener atención y apoyo personalizados.,1
-Los estudiantes en línea a menudo se sienten aislados y desconectados de la comunidad del campus.,1
-"Es frustrante que el costo del tratamiento médico sea tan alto, incluso con el seguro.",1
-Parece haber una escasez de prácticas disponibles y vacantes de trabajo en mi campo de estudio.,1
-Es realmente frustrante no tener más acceso a los asesores académicos. Es importante que tengamos apoyo para poder planificar nuestras carreras académicas.,1
-"24. ""Aprecio las opciones gastronómicas nocturnas disponibles en el campus, pero la comida a menudo no es fresca o de buena calidad.""",1
-Estoy luchando por encontrar oportunidades de trabajo que ofrezcan el tipo de equilibrio entre la vida laboral y la vida personal que deseo.,1
-"5. ""Tengo que tomar dos autobuses y un tren sólo para llegar al campus, y el viaje toma más de una hora cada camino. Es agotador y me quita el tiempo de estudio.""",1
-Me preocupa cómo voy a pagar mis préstamos estudiantiles una vez que me gradúe.,1
-"La desigualdad de género en el deporte es evidente, y la universidad necesita invertir más recursos en los programas deportivos de las mujeres.",1
-"2. ""Como estudiante internacional, a menudo me siento excluido en las actividades grupales, ya que la mayoría de los estudiantes prefieren conversar en su lengua materna"".",1
-La falta de interacción y compromiso en mis clases en línea hizo difícil mantenerse motivado y enfocado en el material.,1
-5. El comedor es sucio e insalubre.,1
-Es frustrante que la universidad sólo invierta en ciertos programas deportivos mientras descuida a otros. Es importante apoyar una variedad de intereses deportivos.,1
-El acceso limitado a las bases de datos y los materiales de investigación está dificultando la elaboración de proyectos y tareas de investigación de alta calidad.,1
-"36. ""Las bebidas disponibles en la cafetería son muy caras.""",1
-"15. ""A veces siento que hay una división entre estudiantes internacionales y nacionales, y es difícil cerrar esa brecha. Creo que la universidad debería hacer más para alentar y facilitar las interacciones interculturales"".",1
-"La carga de trabajo académica de este semestre es abrumadora, estoy teniendo problemas para seguir con todas las tareas y lecturas.",1
-"Como atleta, estoy frustrado con el acceso limitado a las instalaciones deportivas durante las horas punta. Es difícil encajar en las sesiones de entrenamiento cuando el gimnasio siempre está lleno.",1
-"3. ""Creo que sería útil que la universidad brindara más oportunidades para que los estudiantes internacionales y nacionales interactúen y aprendan unos de otros. Tal vez clases de idiomas o eventos culturales"".",1
-Es decepcionante que haya oportunidades limitadas para los estudiantes que no están interesados en los deportes tradicionales.,1
-"A pesar de asistir a ferias de trabajo y aplicar a numerosas oportunidades, no he recibido ninguna oferta de trabajo o incluso entrevistas.",1
-Las lesiones relacionadas con el deporte pueden tener efectos duraderos en la salud y el bienestar de un estudiante. Es importante que la universidad tome medidas preventivas y priorice la seguridad.,1
-"Encontrar oportunidades de trabajo ha sido un reto, especialmente porque muchos requieren años de experiencia que no tengo como estudiante.",1
-"17. ""La comida disponible en el campus es a menudo tibia o fría. La universidad debe centrarse en mejorar la calidad de la comida.""",1
-Las clases en línea no se adaptan a estudiantes con diferentes estilos de aprendizaje y preferencias.,1
-"8. ""La tienda de comestibles más cercana está a 30 minutos en autobús, lo que hace difícil comprar comestibles frescos"".",1
-Siento que no soy capaz de alcanzar todo mi potencial académico debido al limitado acceso a bases de datos y materiales de investigación.,1
-Siento que los requisitos de elegibilidad atlética son demasiado estrictos e impiden que muchos estudiantes participen en deportes.,1
-"""La falta de organización y comunicación en la oficina de asuntos estudiantiles está causando mucho estrés innecesario para los estudiantes. Es hora de que se pongan de pie y lo hagan mejor"".",1
-La dificultad para encontrar y acceder a los materiales del curso está causando mucho estrés a los estudiantes.,1
-"9. ""Los sándwiches de la cafetería siempre están hechos con pan rancio"".",1
-He estado luchando para encontrar maneras de manejar mi estrés y mantener mi salud mental mientras equilibraba mis responsabilidades académicas con otros compromisos.,1
-"He notado una clara desigualdad de género dentro del programa deportivo, y es hora de que la universidad tome medidas.",1
-"No soy muy bueno manejando mi tiempo, y ha estado afectando mis notas.",1
-La carga financiera de la universidad está causando que muchos estudiantes abandonen sus estudios o tarden más tiempo en completar sus estudios.,1
-Me preocupa la calidad de la atención que puedo recibir con las limitadas opciones de seguro disponibles para mí.,1
-Siento que estoy en desventaja en el mercado laboral debido a las limitadas oportunidades de desarrollo profesional que ofrece la universidad.,1
-"28. ""Los postres en el cantín son siempre demasiado dulces e insalubres.""",1
-Me preocupa la falta de diversidad y representación entre los propios estudiantes-atletas. Es importante que todos los estudiantes tengan igualdad de oportunidades.,1
-Me preocupa la falta de atención que se presta a las lesiones y a las preocupaciones médicas relacionadas con los deportes.,1
-La falta de oportunidades de empleo y prácticas disponibles para los estudiantes es una preocupación importante para aquellos que quieren adquirir experiencia práctica y comenzar sus carreras.,1
-"26. ""El campus necesita proporcionar más opciones para los estudiantes que tienen clases matutinas y necesitan desayuno en marcha"".",1
-"18. ""La universidad debe proporcionar autobuses lanzadera a los estudiantes fuera del campus, especialmente durante las horas pico de clase.""",1
-"30. ""El sushi disponible en la cafetería es siempre rancio y caro.""",1
+Estoy harto de los ruidos durante las clases. La gente hablando en los pasillos desconcentra mucho. ¡Necesitamos más silencio!,1
+"Solicito que instalen más puntos de carga para celulares en el campus, siempre se me agota la batería y no tengo dónde cargarlo.",2
+El estrés y la ansiedad de la vida universitaria ha sido realmente abrumador,1
+"Sugiero que organicen talleres sobre cómo manejar el estrés y la ansiedad, que son problemas comunes entre los estudiantes.",3
+"Deberían organizar más eventos culturales en la universidad, como conciertos o exposiciones, eso animaría mucho el ambiente y sería genial para todos.",3
+"Qué pereza que las clases sean tan largas y aburridas, los profesores solo leen diapositivas y no hacen nada interactivo, me duermo.",1
+Es frustrante que haya tan pocas becas disponibles para ayudar con el costo de la matrícula.,1
+"El costo de vida en la zona que rodea a la universidad es demasiado alto, lo que hace que sea difícil pagar las necesidades básicas.",1
+"Me anularon un parcial sin ninguna razón clara, ¡y no me dejan presentar la reposición, esto es un abuso de autoridad!",4
+"12. ""Creo que es importante que la universidad priorice la diversidad lingüística y cultural en sus esfuerzos de reclutamiento.Necesitamos más estudiantes internacionales y estudiantes nacionales de diversos orígenes para crear una comunidad verdaderamente inclusiva"".",1
+"Opino que sería interesante crear un programa de intercambio con universidades de otros países, para vivir una experiencia internacional, ¡sería enriquecedor!",3
+"Quisiera que hubiera más información sobre las becas y ayudas económicas, a veces no me entero de las convocatorias y pierdo oportunidades.",2
+"Reclamo que no me dieron la beca que me habían prometido; cumplí con todos los requisitos y ahora me dicen que no hay fondos, me siento engañado.",4
+"Reclamo la falta de flexibilidad en los horarios de las materias; es imposible cuadrar el horario con mis otras responsabilidades, ¡necesito opciones!",4
+"Podrían poner más bebederos de agua en el campus, ¡uno se deshidrata caminando todo el día y no hay dónde tomar agua fresca!",2
+"Necesito que habiliten un servicio de transporte nocturno, ¡es peligroso caminar solo por la noche y no todos tenemos carro!",2
+"Me quejo de que las sillas en las aulas son súper incómodas, ¡me duele la espalda después de cada clase!, deberían renovarlas urgentemente.",1
+"Me parece terrible que no haya suficientes computadores disponibles en las salas de informática, ¡siempre toca esperar horas para poder usarlos!",1
+Propongo que hagan convenios con empresas para que los estudiantes podamos hacer prácticas profesionales desde los primeros semestres.,3
 "12. ""Puede ser difícil adaptarse a una nueva cultura y entorno, especialmente cuando hay diferencias culturales a las que no estoy acostumbrado"".",1
-La falta de retroalimentación e interacción en persona con mis profesores hizo difícil mejorar mis habilidades y conocimientos.,1
-Es realmente frustrante tener acceso limitado a bases de datos y materiales de investigación.,1
-"16. ""Ojalá hubiera más oportunidades para que los estudiantes internacionales y locales colaboraran y trabajaran juntos en proyectos"".",1
-"5. ""Me cuesta participar en las discusiones de clase porque no tengo confianza en mis habilidades lingüísticas. Es frustrante porque siento que tengo mucho que aportar, pero me detengo por mi falta de fluidez"".",1
-"21. ""El alto costo de la vivienda y el transporte es una barrera que impide que muchos estudiantes cursen estudios superiores, y es un problema que debe abordarse a nivel sistémico"".",1
-Me siento como si estuviera compitiendo con estudiantes de universidades más prestigiosas por las mismas oportunidades de trabajo.,1
-El acceso limitado a las bases de datos y los materiales de investigación es un gran problema que dificulta la realización de tareas de investigación y la redacción de documentos.,1
-La carga de trabajo para este curso es abrumadora. No tengo tiempo suficiente para completar todo y está afectando a mis otras clases.,1
-Me preocupa la falta de rigor académico en este curso.,1
-"10. ""La comida disponible en el campus no se adapta a los estudiantes con alergias. La universidad debe proporcionar opciones más favorables a las alergias.""",1
-"Recibí una advertencia financiera porque no podía pagar mi matrícula a tiempo, a pesar de que he estado haciendo todo lo posible para llegar a fin de mes.",1
-Ha habido varias violaciones del código de honor en este curso y es realmente decepcionante. Pensé que este era un lugar de aprendizaje superior y respeto por la integridad académica.,1
-"31. ""Los estacionamientos cerca de la universidad siempre están llenos, lo que hace imposible encontrar un lugar"".",1
-"24. ""Ojalá hubiera más carriles para bicicletas cerca de la universidad, haría más fácil viajar en bicicleta"".",1
-Estoy frustrado por la falta de transparencia cuando se trata de cómo mi matrícula y honorarios están siendo gastados por la universidad.,1
-Sigo recibiendo advertencias financieras a pesar de que estoy haciendo pagos regulares en mi matrícula y honorarios.,1
-Estoy preocupado por mi salud mental y he estado experimentando síntomas de agotamiento y agotamiento debido a las demandas de mi carga de trabajo académico.,1
-Estoy frustrado de que los estudiantes que vienen de familias ricas tienen un tiempo más fácil para permitirse la universidad y el acceso,1
-"11. ""Tengo que viajar más de una hora por cada camino para llegar al campus, y el tiempo y el dinero que gasto en transporte realmente se suman"".",1
-La dificultad de encontrar y acceder a los materiales del curso me está haciendo perder tiempo y dinero tratando de completar las asignaciones.,1
-"Me siento abrumado con la cantidad de trabajo que tengo que hacer, y está causando mucho estrés y ansiedad.",1
-"El costo de los libros de texto y otros materiales del curso es escandaloso, y está haciendo que sea difícil pagar mi educación.",1
-"Me resulta difícil mantenerme al día con la carga de trabajo académica, sobre todo porque el material del curso es difícil. Equilibrar el trabajo y las responsabilidades académicas es difícil, y a menudo hay conflictos de tiempo con otros compromisos. No duermo lo suficiente, y está empezando a afectar mi salud mental. El estrés y la ansiedad son abrumadores.",1
-El acceso limitado a los recursos de la biblioteca en línea y a las bases de datos de investigación dificultaba la realización de tareas y proyectos.,1
-Estoy teniendo dificultades para encontrar un proveedor de atención de salud mental que está aceptando nuevos pacientes.,1
-Estoy constantemente preocupado por el dinero y está afectando mi salud mental.,1
-"5. ""¡Las opciones vegetarianas en la cafetería son deliciosas!""",1
-Soy estudiante internacional y estoy teniendo problemas para acceder a algunos de los recursos en línea debido a las restricciones regionales. Es frustrante sentir que me estoy perdiendo por de donde vengo.,1
-He tenido que elegir entre pagar el tratamiento médico necesario y pagar otros gastos como alquiler y comestibles.,1
-"3. ""Siento que la universidad debería estar haciendo más para ofrecer opciones de vivienda asequibles para los estudiantes. No es justo que tengamos que elegir entre vivir en condiciones subpar o endeudarnos sólo para pagar el alquiler"".",1
-La universidad debe trabajar en la ampliación de su red de empleadores potenciales y oportunidades de empleo para los estudiantes.,1
-La dificultad para encontrar y acceder a los materiales del curso es una barrera para el éxito de muchos estudiantes. Es importante que tengamos acceso a lo que necesitamos para tener éxito.,1
-Los requisitos de elegibilidad atlética pueden ser confusos y difíciles de navegar. La universidad debe proporcionar directrices y recursos más claros para ayudar a los estudiantes a entender el proceso.,1
-La disponibilidad limitada de los cursos está causando mucho estrés para los estudiantes. Necesitamos más opciones para poder tomar las clases que necesitamos.,1
-"12. ""La cafetería debe ofrecer más opciones para los estudiantes con restricciones dietéticas o alergias alimentarias"".",1
-"20. ""Los precios de los alimentos en el campus son demasiado altos, especialmente teniendo en cuenta la calidad y variedad de las opciones disponibles.""",1
-"20. ""El personal de la cafetería es siempre amable y servicial"".",1
-Estoy decepcionado con la desigualdad de género en los deportes. Los equipos femeninos a menudo reciben fondos insuficientes y no se les dan las mismas oportunidades que los equipos masculinos.,1
-"9. ""Me resulta difícil hacer amigos con los estudiantes locales, ya que a menudo tenemos diferentes intereses y experiencias"".",1
-"8. ""Creo que sería útil que la universidad proporcionara más recursos para los estudiantes internacionales que están luchando con las barreras lingüísticas o culturales. Tal vez un programa de tutoría o grupo de apoyo"".",1
-"10. ""Aprecio que el campus tiene algunas opciones saludables disponibles, pero a menudo son más caros que los otros elementos del menú.""",1
-"2. ""Ojalá hubiera opciones de viaje más asequibles para los estudiantes. Es difícil ahorrar suficiente dinero para hacer un viaje cuando ya estás pagando la matrícula, los libros de texto y el alquiler"".",1
-No estoy seguro de poder permitirme terminar mi grado por la cantidad de deuda que ya he acumulado.,1
-"""El proceso para ordenar transcripciones oficiales de la universidad es innecesariamente complicado. Debe ser tan simple como enviar una solicitud en línea, pero en cambio tengo que navegar por un sistema confuso y esperar semanas para que se procese"".",1
-Me preocupa la forma en que el departamento de atletismo maneja las quejas del Título IX y la cultura general de rendición de cuentas.,1
-"La dificultad del material del curso es mucho mayor de lo que esperaba, y estoy luchando por mantenerme al día.",1
-La universidad debería ofrecer más ferias profesionales y eventos de networking para ayudar a los estudiantes a conectarse con empleadores potenciales.,1
-El acceso limitado a los asesores académicos está haciendo que sea difícil para mí planificar mi carrera académica y obtener el apoyo que necesito.,1
-El acceso limitado a la tecnología y el software es un problema importante. Está afectando nuestra capacidad de tener éxito en nuestros cursos y prepararse para la fuerza laboral.,1
-"4. ""Soy de fuera de la ciudad, y estoy teniendo dificultades para encontrar mi camino alrededor de la ciudad. Sería genial si la universidad ofreciera más sesiones de orientación o tours para los nuevos estudiantes, para que pudiéramos sentirnos más seguros y cómodos navegando por la zona.""",1
-"4. ""Aprecio los esfuerzos que la universidad ha hecho para crear un entorno diverso e inclusivo, pero como estudiante internacional, todavía me siento como un forastero. Es difícil encontrar un terreno común con personas que tienen experiencias y perspectivas tan diferentes"".",1
-Equilibrar mi trabajo a tiempo parcial con mis cursos ha sido una gran lucha. Estoy constantemente agotado y siento que no tengo suficiente tiempo para centrarme en la escuela.,1
-"14. ""Creo que es importante que la universidad cree un ambiente acogedor e inclusivo para todos los estudiantes, independientemente de su idioma o de sus antecedentes culturales. Debemos celebrar nuestras diferencias y aprender unos de otros"".",1
-"Incluso con el seguro, he tenido que pagar miles de dólares de bolsillo para gastos médicos.",1
-La falta de opciones para los programas de deportes y atletismo en el campus es decepcionante. Más variedad ayudaría a los estudiantes a encontrar actividades que disfrutan y se sienten apasionados por.,1
-"2. ""El sistema de transporte en mi ciudad no es confiable en absoluto, he tenido que perder varias clases debido a los autobuses y trenes tardíos.""",1
-"21. ""La calidad de la comida en el campus varía ampliamente. A veces es genial, pero otras veces es apenas comestible"".",1
-"40. ""El personal en el cantine es siempre grosero e inútil.""",1
-"18. ""La cafetería debería ofrecer opciones más saludables"".",1
-"""Tuve que esperar en fila durante horas sólo para presentar mi solicitud de certificado militar, y todavía no ha sido procesada.Esto es inaceptable"".",1
+"Quisiera pedir que mejoren la señalización en el campus, es fácil perderse al principio.",2
+"Me molesta que no haya suficientes computadores disponibles en la sala de sistemas, siempre toca esperar.",1
 4. El comedor está siempre lleno y hay largas colas.,1
-Las dificultades técnicas con las grabaciones de clase en línea pueden conducir a conferencias perdidas e información importante.,1
-16. La comida no se llena.,1
-"El departamento de atletismo debe priorizar la seguridad y el bienestar de todos los atletas, en lugar de centrarse en ganar.",1
-El acceso limitado a la tecnología y el software está afectando mi capacidad de competir con mis compañeros y prepararse para mi futura carrera.,1
-La falta de aprendizaje práctico y experiencia práctica en mis clases en línea hizo difícil aplicar el conocimiento a situaciones del mundo real.,1
-El costo de la medicación y la terapia me está causando mucho estrés financiero.,1
-"Es frustrante ver las disparidades de género en los deportes, especialmente cuando se trata de financiación y apoyo a los equipos de mujeres.",1
-"Me gustaría que hubiera más opciones para la atención de salud mental en el campus. Es difícil encontrar terapia o asesoramiento asequible, y los tiempos de espera para las citas son demasiado largos.",1
-El acceso limitado a los recursos académicos está creando una desventaja para mí en comparación con otros estudiantes que tienen mayor acceso.,1
-"27. ""La calidad de la comida en el café del campus necesita ser mejorada. A menudo es rancio y poco apetitoso.""",1
-El proceso de solicitud de becas de la universidad es tan competitivo que parece que no tiene sentido intentarlo.,1
-"9. ""Fui a un viaje con una organización estudiantil, pero los líderes no parecían muy organizados. Siempre estábamos llegando tarde o faltando detalles importantes, y eso hizo que el viaje fuera más estresante de lo necesario"".",1
-El acceso limitado a las instalaciones deportivas hace que sea difícil entrenar eficazmente y alcanzar mis metas.,1
-El estrés de pagar la universidad me está haciendo perder el sueño y centrarme en mis estudios.,1
-"Tengo muchos otros compromisos que a menudo entran en conflicto con mi trabajo escolar, y ha sido muy difícil hacer malabares con todo.",1
-"2. ""Estoy realmente interesado en probar algunas nuevas actividades al aire libre, pero no sé por dónde empezar. Sería genial si la universidad ofreciera viajes y actividades más organizados, como senderismo o kayak, para que pudiera explorar la zona con otros estudiantes"".",1
-Es difícil encontrar trabajo a tiempo parcial que pague lo suficiente para cubrir mis gastos mientras estoy en la escuela.,1
-El acceso limitado a los recursos académicos está haciendo que sea difícil para mí participar plenamente en mis estudios y aprovechar todo lo que mi universidad tiene para ofrecer.,1
-"""No he tenido más que frustración y retrasos en tratar de obtener mis certificados de estudiante. La oficina de asuntos estudiantiles necesita revisar sus procesos y hacer que sea más fácil para los estudiantes obtener lo que necesitan"".",1
-Las diferencias horarias para las clases en línea han hecho difícil asistir a horas de oficina y obtener atención individualizada de los profesores.,1
-"7. ""Ojalá hubiera más oportunidades de conectarme con otros estudiantes que tienen intereses similares. Puede ser difícil encontrar una comunidad de individuos con ideas afines en un campus tan grande"".",1
-"Es frustrante que tenga que trabajar tantas horas solo para llegar a fin de mes, y me está quitando el tiempo de estudio.",1
-26. No he podido encontrar alimentos que satisfagan mis necesidades dietéticas.,1
-Me preocupa que no pueda pagar los tratamientos médicos que necesito si mi seguro no los cubre.,1
-Es realmente frustrante que no tengamos mejor acceso a los asesores académicos. Está causando mucho estrés y ansiedad.,1
-El acceso limitado a los recursos académicos me impide participar plenamente en mis estudios y alcanzar todo mi potencial.,1
-Estoy luchando por encontrar un medicamento que funcione para mí y no rompa el banco.,1
-El profesor de este curso no es accesible. Tengo miedo de pedirles ayuda y está obstaculizando mi éxito.,1
-La disponibilidad limitada de los cursos está afectando nuestra capacidad de graduarnos a tiempo y cumplir con nuestros objetivos académicos.,1
-Es difícil hacer proyectos grupales cuando tenemos acceso limitado a tecnología y software. Nos pone en desventaja en comparación con otros grupos.,1
-Es frustrante que no pueda acceder a las instalaciones deportivas que necesito debido a estrictas limitaciones de programación.,1
-"He solicitado numerosas pasantías y trabajos, pero no he tenido suerte. Es desalentador y me gustaría que la universidad pudiera hacer más para ayudar.",1
-"18. ""Las máquinas expendedoras en el campus a menudo están fuera de servicio, lo que hace difícil encontrar aperitivos y bebidas"".",1
-"4. ""Ojalá hubiera opciones más asequibles para aperitivos y bebidas en el campus. Las máquinas expendedoras a menudo están vacías o no funcionan"".",1
-"""Me preocupa que mi certificado de formación no sea procesado a tiempo para comenzar mi pasantía. La oficina de asuntos estudiantiles necesita priorizar las necesidades de los estudiantes y asegurarse de que estos documentos se procesan rápidamente"".",1
-"La carga de trabajo académica está causando estrés y ansiedad importantes, y me resulta difícil hacer frente a la presión.",1
-"29. ""Las opciones de vivienda cerca de la universidad son tan limitadas, que es imposible encontrar un lugar donde vivir que no esté infestado de plagas"".",1
-La falta de prácticas disponibles y oportunidades de trabajo en mi área de estudio es preocupante y me preocupa por mis perspectivas futuras.,1
-Me cuesta encontrar oportunidades de trabajo adecuadas que se ajusten a mis metas profesionales.,1
-"8. ""Aprecio las opciones vegetarianas y veganas disponibles en el campus, pero a menudo se agotan o no se reponen de manera oportuna.""",1
-"9. ""La falta de opciones de vivienda asequibles en esta área está limitando mis opciones. Siento que tengo que conformarme con un lugar que está lejos del campus y no es muy agradable, sólo porque es lo único que puedo permitirme"".",1
-Me resulta difícil mantener la motivación con mi trabajo. Estoy tratando de establecer metas más pequeñas y alcanzables para ayudarme a mantener el rumbo.,1
-"6. ""Creo que sería útil que la universidad organizara más eventos y actividades específicamente diseñados para reunir a estudiantes internacionales y nacionales. De esa manera, podríamos aprender unos de otros y construir relaciones más fuertes"".",1
-"21. ""El cantine debería ofrecer más opciones vegetarianas.""",1
-"15. ""El cantine siempre está cerrado durante los fines de semana, lo cual es inconveniente"".",1
-"9. ""Las opciones de comida del campus no son muy diversas, y a menudo termino comiendo las mismas cosas una y otra vez"".",1
-El departamento de atletismo debe proporcionar más recursos y capacitación a los entrenadores para garantizar un entorno seguro e inclusivo para todos los atletas.,1
-Siento que no estoy recibiendo el apoyo que necesito de asesores académicos. El acceso limitado a ellos está haciendo que sea difícil planificar mi carrera académica.,1
-"A pesar de mis esfuerzos, estoy luchando para encontrar ofertas de trabajo que coincidan con mis calificaciones y experiencia.",1
-Siento que mis necesidades de salud mental no son tomadas en serio por mi proveedor de seguros.,1
-"9. ""Como estudiante doméstico, a veces me siento culpable de no saber más sobre otras culturas e idiomas. Ojalá hubiera más oportunidades para aprender y participar con estudiantes internacionales"".",1
-"Incluso con el seguro médico, estoy constantemente recibiendo golpes con facturas médicas inesperadas. Es difícil de presupuestar para algo cuando usted ni siquiera sabe cuál será el costo.",1
-La disponibilidad limitada de profesores durante las clases en línea ha hecho difícil obtener comentarios y apoyo oportunos sobre los cursos.,1
-"8. ""El sistema de transporte público está tan abarrotado durante las horas punta que a menudo es imposible conseguir un asiento, y termino de pie durante todo el viaje al campus"".",1
-"6. ""Es frustrante cuando los profesores y compañeros de clase asumen que todos los estudiantes están familiarizados con ciertas referencias culturales o expresiones. Sería bueno que hubiera más educación y conciencia en torno a las diferencias culturales"".",1
-Es realmente frustrante que la atención de la salud mental se vea a menudo como un lujo en lugar de una necesidad. Deberíamos invertir más en recursos de salud mental y apoyo para los estudiantes.,1
-"19. ""He tenido que faltar a clase varias veces debido a problemas de transporte, y realmente ha dañado mis calificaciones y mi rendimiento académico en general"".",1
-Me preocupa la falta de atención que se presta a prevenir y abordar las lesiones relacionadas con el deporte. Es importante que los atletas reciban atención adecuada.,1
-"Es importante que la universidad priorice la seguridad de todos los atletas, incluyendo la implementación de protocolos de seguridad adecuados y recursos para lesiones.",1
-"A pesar de que recibí ayuda financiera, todavía no es suficiente para cubrir todos mis gastos, y estoy luchando para llegar a fin de mes.",1
-"A pesar de que tengo un trabajo, todavía no es suficiente para cubrir todos mis gastos, y estoy luchando para llegar a fin de mes.",1
-He experimentado desigualdad de género dentro del programa deportivo y siento que es un tema significativo que necesita ser abordado.,1
-"Como estudiante en un área remota, estoy luchando para acceder a los materiales necesarios del curso debido a la disponibilidad limitada en línea.",1
-"La oficina de ayuda financiera siempre está cambiando sus políticas, haciendo que sea difícil mantenerse al día.",1
-"""La oficina de asuntos estudiantiles necesita agilizar sus procesos para gestionar los certificados de nacimiento. No debería tomar semanas para obtener un documento simple procesado"".",1
-La falta de opciones de seguro médico asequibles para los estudiantes es inaceptable.,1
-Los requisitos de elegibilidad atlética son demasiado estrictos y limitan el número de estudiantes que pueden participar en programas deportivos.,1
-"La universidad debe garantizar el cumplimiento del Título IX y ofrecer igualdad de oportunidades a todos los atletas, independientemente del género.",1
-"He estado posponiendo ir al médico por un tiempo porque estoy preocupado por el costo. Es una decisión difícil de tomar, pero no puedo pagar los gastos médicos en este momento.",1
-Las limitadas oportunidades de trabajo me han hecho cuestionar si debo seguir con mi trayectoria profesional elegida.,1
-"El paquete de ayuda financiera que recibí fue mucho menor de lo que esperaba, y ahora no estoy seguro de cómo voy a pagar la escuela.",1
-"19. ""Como estudiante internacional, a veces siento que no me toman en serio en entornos académicos debido a mi acento o antecedentes culturales"".",1
-Es frustrante que mi seguro médico no cubra todos mis gastos médicos.,1
-"Estoy constantemente preocupado por mi situación financiera, y está afectando mi salud mental.",1
-"""La oficina de asuntos estudiantiles parece estar desorganizada e ineficiente cuando se trata de gestionar los certificados de nacimiento. Tuve que hacer múltiples viajes a su oficina sólo para obtener el mío procesado"".",1
-El acceso limitado a bases de datos y materiales de investigación está dificultando la realización de investigaciones de calidad para mis trabajos.,1
-"Es frustrante ver puestos de trabajo que requieren años de experiencia, lo que hace difícil para los graduados recientes entrar en su campo deseado.",1
-"4. ""La comida en el campus es genial, pero el cantine siempre está lleno durante el almuerzo.""",1
-Estoy luchando con la gestión del tiempo y encontrar difícil priorizar mi trabajo de curso. Estoy buscando recursos para ayudarme a mejorar mis habilidades.,1
-"""He estado intentando que la universidad verifique mi certificado militar durante semanas, pero cada vez que voy a la oficina me dicen que hay un problema con el papeleo. Es frustrante porque necesito este certificado para solicitar ciertas prácticas"".",1
+"Propongo que se creen programas de voluntariado para ayudar a la comunidad, así podríamos poner en práctica nuestros conocimientos.",3
+"Me quejo de la lentitud del servicio de atención al estudiante, cada vez que necesito algo tardan muchísimo en responderme.",1
+"Necesito que mejoren la señalización en el campus, es fácil perderse y no encontrar los salones.",2
+"Solicito que amplíen el horario de atención de la sala de cómputo, ya que muchos estudiantes trabajamos y necesitamos usarla en la noche.",2
+"Me resulta difícil administrar mi tiempo de manera eficaz, y está afectando mi capacidad de mantenerme al día con las tareas y los cursos.",1
+"Quisiera saber si existe la posibilidad de que abran más horarios para las materias electivas, porque siempre están llenos y nunca alcanzo cupo, ¡qué frustración!",2
+"La carga de trabajo académica se está volviendo abrumadora, y el material del curso es tan desafiante. Estoy luchando para equilibrar el trabajo y las responsabilidades académicas y manejar mi tiempo de manera eficaz. A menudo hay conflictos de tiempo con otros compromisos, y no estoy durmiendo lo suficiente. Esto me está causando estrés y ansiedad, y mi salud mental está sufriendo.",1
+Estoy luchando para mantenerme al día con mi trabajo debido a la dificultad en encontrar y acceder a los materiales del curso.,1
+Propongo que organicen más actividades de voluntariado en la comunidad; así ayudamos a los demás y aprendemos mucho.,3
+"Me parece injusto que nos cobren por usar el gimnasio, debería ser gratuito para todos los estudiantes, es un derecho.",4
 "4. ""Siento que me estoy perdiendo mucho porque no puedo participar plenamente en discusiones de clase y proyectos grupales. Es difícil contribuir cuando no tienes una comprensión completa del idioma"".",1
+"4. ""Me encanta explorar nuevos lugares y probar cosas nuevas, pero es difícil hacerlo con un presupuesto para estudiantes. Ojalá hubiera más actividades gratuitas o de bajo costo disponibles en la zona"".",1
+"Creo que sería genial tener un huerto comunitario en la universidad, podríamos aprender sobre agricultura y comer alimentos saludables.",3
+"Estoy reclamando por el servicio de atención al estudiante, nunca contestan el teléfono y cuando uno va personalmente, siempre están ocupados y no te ayudan.",4
+"9. ""Creo que es importante que la universidad reconozca los desafíos que enfrentan los estudiantes internacionales y proporcione más apoyo y recursos para ayudarnos a tener éxito académico y social"".",1
+"Encuentro que el material del curso para mi clase de matemáticas es extremadamente difícil. He estado asistiendo a sesiones de estudio extra, pero todavía me siento perdido.",1
+"Estoy realmente luchando para pagar mi matrícula sin ninguna ayuda financiera o becas, y me está causando mucho estrés y ansiedad.",1
+Me quejo de la actitud de algunos funcionarios de la secretaría. Son groseros y no ayudan a resolver los problemas.,1
+Estoy decepcionado con la calidad de la educación que estoy recibiendo en este curso. Esperaba más de una universidad.,1
+"13. ""Las opciones de fruta en la cafetería son limitadas y a menudo no están maduras.""",1
+¿Podrían habilitar más salas de estudio grupales? A veces es imposible encontrar un espacio libre para trabajar con mis compañeros en los proyectos.,2
+"Demando que se cumplan los horarios de clase, ¡es una falta de respeto que los profesores lleguen tarde o se vayan antes!",4
+Es difícil equilibrar mi presupuesto cuando el costo de la vida sigue subiendo.,1
+Estoy luchando para administrar mi tiempo de manera eficaz y me resulta difícil equilibrar mis responsabilidades académicas con el trabajo y las actividades sociales.,1
+"Estoy aburrido de que me discriminen por mi orientación sexual. Exijo respeto, todos somos iguales y merecemos el mismo trato.",4
+La universidad necesita hacer más para garantizar el cumplimiento del Título IX y proporcionar igualdad de oportunidades para todos los programas deportivos.,1
+"La desigualdad de género en el deporte es un problema generalizado que afecta a todos los estudiantes, no sólo a los atletas.La universidad debería hacer más para promover la equidad de género y el empoderamiento.",1
+"Solicito que mejoren la señalización dentro del campus, porque es fácil perderse y llegar tarde a las clases, ¡qué desorientación!",2
+"9. ""Tengo que caminar 20 minutos a la parada de autobús todos los días, lo que no es ideal durante los meses de invierno.""",1
+"Quisiera que hubiera más consejeros académicos disponibles para los estudiantes. A veces uno necesita orientación y no sabe a quién acudir, porfa.",2
+"Quisiera pedir que habiliten un espacio para guardar bicicletas de forma segura, para evitar robos.",2
+"Necesito saber cuáles son los requisitos para solicitar el certificado de notas; la información en la página web es confusa, por favor.",2
+"No soporto que los profesores lleguen tarde a clase, nos hacen perder el tiempo y nos interrumpen el ritmo de estudio. ¡Deberían ser más puntuales!",1
+"Sugiero que implementen talleres de habilidades blandas, como comunicación y liderazgo, porque son súper importantes para el futuro laboral.",3
+"Me molesta que los baños de hombres estén en peores condiciones que los de mujeres, parece que no les importa la higiene de los hombres. ¡Igualdad para todos!",1
+"Reclamo por el mal estado de los baños, están sucios y siempre faltan papel y jabón, es una cuestión de higiene básica, ¡háganse cargo!",4
+"Sería bueno que hubiera más actividades deportivas, como torneos o clases de yoga, para mantenernos en forma.",3
+Los deportistas estudiantes a menudo enfrentan desafíos únicos cuando se trata de equilibrar deportes y académicos. La universidad necesita proporcionar más apoyo y recursos para ayudarles a tener éxito.,1
+"Reclamo que no me hayan informado sobre el cambio de fecha del examen, ahora perdí la oportunidad de presentarlo.",4
+"Estoy constantemente preocupado por mi situación financiera, y está afectando mi salud mental.",1
+"Quisiera que pusieran más bebederos de agua en el campus, ¡uno se cansa de comprar botellas y es importante mantenerse hidratado!",2
+Estoy frustrado por la falta de recursos disponibles para los atletas que sufren de lesiones u otras preocupaciones médicas.,1
+"Recomiendo que hagan talleres sobre cómo buscar trabajo y prepararse para las entrevistas, muchos no sabemos cómo empezar.",3
+"Solicito que instalen más enchufes en las aulas; necesito cargar mi portátil y siempre tengo que buscar un enchufe libre, es muy incómodo.",2
+"La verdad, la comida de la cafetería es pésima, siempre es la misma y no hay opciones saludables, ¡necesitamos un menú más variado y nutritivo, por favor!",1
+"Quería pedirles que habiliten un espacio para que los estudiantes podamos calentar la comida que traemos de casa, ¡sería de gran ayuda!",2
+"Solicito que habiliten un espacio para que los estudiantes podamos calentar nuestra comida, no todos podemos comprar en la cafetería todos los días.",2
+Propongo que se organicen más talleres prácticos sobre inteligencia artificial. Es un tema muy relevante para nuestro futuro profesional.,3
+"Necesito saber cómo puedo acceder a los servicios de consejería psicológica de la universidad, ¡me siento muy estresado y necesito ayuda!",2
+"Reclamo que no haya suficientes espacios para estudiar en grupo, siempre toca buscarse la vida en cualquier rincón, ¡qué estrés!",4
+El aumento del tiempo de pantalla de las clases en línea puede causar tensión ocular y fatiga.,1
+Parece haber una escasez de prácticas disponibles y vacantes de trabajo en mi campo de estudio.,1
+Propongo que hagan más actividades deportivas al aire libre. Sería una buena forma de desestresarnos y hacer ejercicio.,3
+El estrés de pagar la universidad me está haciendo perder el sueño y centrarme en mis estudios.,1
+"27. ""La universidad debería ofrecer opciones de vivienda más asequibles en el campus para los estudiantes que no pueden permitirse vivir fuera del campus"".",1
+"Oigan, profes, ¿será que pueden subir las diapositivas de las clases antes, así tenemos tiempo de leerlas y no llegar tan perdidos a clase?",2
+"Me gustaría que hubiera más talleres prácticos en la carrera de diseño gráfico, siento que la teoría está bien, pero necesito ensuciarme las manos.",2
+"Estoy inconforme con la falta de variedad en las opciones de almuerzo, siempre es lo mismo y ya me aburrí de comer ahí.",1
+La universidad debería ofrecer más ferias profesionales y eventos de networking para ayudar a los estudiantes a conectarse con empleadores potenciales.,1
+"3. ""Últimamente me he sentido muy agotado, y creo que es porque no he tenido la oportunidad de tomar un descanso y hacer algo divertido fuera de clase. Ojalá hubiera más eventos y actividades sociales en el campus que estuvieran orientadas hacia el alivio del estrés y el autocuidado"".",1
+Estoy luchando por encontrar un medicamento que funcione para mí y no rompa el banco.,1
+Es difícil hacer proyectos grupales cuando tenemos acceso limitado a tecnología y software. Nos pone en desventaja en comparación con otros grupos.,1
+El acceso limitado a los recursos académicos está haciendo que sea difícil para mí participar plenamente en mis estudios y aprovechar todo lo que mi universidad tiene para ofrecer.,1
+"Reclamo que no hay suficientes becas para estudiantes de bajos recursos, muchos no pueden seguir estudiando por falta de dinero.",4
+"8. ""Las porciones servidas en la cafetería son demasiado pequeñas para el precio.""",1
+"Estoy cansado de que las clases sean tan teóricas, necesitamos más ejemplos prácticos y casos reales para entender mejor los conceptos.",1
+"Es frustrante que algunos estudiantes parezcan tener recursos financieros ilimitados, mientras que el resto de nosotros luchamos para llegar a fin de mes.",1
+Estoy realmente frustrado con la falta de cobertura en mi plan de seguro médico. He tenido que pagar de bolsillo por tantos gastos médicos que deberían haber sido cubiertos.,1
+"Sugiero que implementen un sistema de bicicletas públicas en el campus, sería una forma ecológica de moverse entre los edificios.",3
+"Reclamo que me calificaron mal el examen de física; estoy seguro de que mis respuestas eran correctas, necesito una revisión justa, por favor.",4
+"El departamento de atletismo debe priorizar la seguridad y el bienestar de todos los atletas, en lugar de centrarse en ganar.",1
+"Exijo que me devuelvan el dinero del curso que cancelé, ya pasó un mes y todavía no me han hecho el reembolso. ¡Qué desastre!",4
+"Estoy harto de que el internet en la universidad sea tan lento, necesito una conexión estable para investigar y entregar mis trabajos a tiempo, esto es un reclamo.",4
+"11. ""Me siento como si me estuviera perdiendo algunos de los beneficios de un cuerpo estudiantil diverso porque no puedo conectarme completamente con estudiantes internacionales. Sería genial si hubiera más oportunidades para que interactuáramos y aprendiéramos unos de otros"".",1
+Solicito que instalen bebederos de agua potable en más lugares del campus. A veces toca comprar botellas y no es justo para nuestro bolsillo.,2
+"Exijo que revisen la calificación del parcial de cálculo, siento que me calificaron mal y me están perjudicando el promedio, ¡esto no es justo!",4
+"Necesito que me aclaren cómo funciona el sistema de créditos académicos, no entiendo bien cómo puedo graduarme a tiempo.",2
+"Quisiera que implementaran un sistema de evaluación docente más transparente, para que podamos dar nuestra opinión sobre los profesores de manera anónima.",2
+"Sugiero que se implemente un sistema de evaluación docente por parte de los estudiantes, así los profesores podrían mejorar su enseñanza.",3
+"Deberían poner más enchufes en la biblioteca, siempre toca pelearse por un tomacorriente para cargar el portátil.",3
+Los requisitos de elegibilidad atlética son demasiado estrictos y limitan el número de estudiantes que pueden participar en programas deportivos.,1
+"Solicito que se mejore la comunicación entre la universidad y los estudiantes, a veces nos enteramos de las cosas por terceros y no por los canales oficiales. ¡Manténgannos informados!",2
+"Exijo una explicación sobre por qué me bajaron puntos en el trabajo final, yo cumplí con todos los requisitos y merezco una mejor nota.",4
+Estoy súper molesto porque otra vez el ascensor del edificio de ingenierías está dañado. Subir ocho pisos a pie todos los días es un verdadero calvario.,1
+Desearía que hubiera más asesores académicos disponibles para proporcionar orientación y apoyo a lo largo de mi experiencia universitaria.,1
+"Propongo que se creen más clubes estudiantiles relacionados con diferentes intereses, como música, cine o literatura.",3
+"Me indigna que la comida de la cafetería sea tan cara y de tan mala calidad, ¡uno paga un dineral por algo que no vale la pena!",1
+"Quiero saber si hay algún programa de voluntariado en la universidad, me gustaría ayudar a la comunidad y poner en práctica mis conocimientos.",2
+"Sugiero que hagan encuestas para conocer la opinión de los estudiantes sobre los profesores y las materias, ¡es importante saber qué pensamos!",3
+El departamento de atletismo debe proporcionar más recursos y capacitación a los entrenadores para garantizar un entorno seguro e inclusivo para todos los atletas.,1
+"Creo que sería útil tener más espacios de estudio grupales en la biblioteca, a veces es difícil concentrarse con tanto ruido alrededor.",3
+Reclamo formalmente que la plataforma de inscripción de materias siempre falla al inicio de cada semestre. No es justo que unos tengan ventaja sobre otros.,4
+No me parece justo que los profesores lleguen tarde a clase y nos hagan perder el tiempo. ¡Es una falta de respeto!,1
+"Sería bueno que implementaran un sistema de bicicletas compartidas en el campus, así podríamos movernos más rápido y de forma ecológica.",3
+"Pienso que sería genial tener un gimnasio mejor equipado en la universidad, para poder hacer ejercicio y mantenernos saludables.",3
+Me molesta que los profesores no sean flexibles con los plazos de entrega. A veces tengo problemas personales y necesito más tiempo.,1
+"Me quejo de la falta de seguridad en el campus, he escuchado de varios robos y me da miedo caminar solo por la noche.",1
+"Es inaceptable el mal estado de las canchas deportivas; es imposible practicar deporte en condiciones dignas, necesitamos una solución urgente.",1
+"Estoy súper inconforme con la cafetería, la comida siempre está fría y carísima, ¿no podrían mejorar eso o al menos bajarle al precio?",1
+"Me siento abrumado con la cantidad de trabajo que tengo que hacer, y está causando mucho estrés y ansiedad.",1
+"El equilibrio entre el trabajo y las responsabilidades académicas ha sido un reto, y me resulta difícil encontrar tiempo para actividades sociales y pasatiempos.",1
+"13. ""Tuve que pedir un préstamo estudiantil sólo para poder pagar el alquiler de mi apartamento"".",1
+"Sugiero que implementen un sistema de tutorías entre estudiantes, así los que vamos más avanzados podemos ayudar a los que tienen dificultades; sería genial para todos.",3
+Me fastidia que los profesores lleguen tarde a clase y nos hagan perder el tiempo. Deberían ser más puntuales y respetuosos.,1
+"Pido una investigación exhaustiva sobre las irregularidades en el proceso de votación para el consejo estudiantil, hubo fraude.",4
+Me gustaría que hubiera más disponibilidad de cursos. Es frustrante tener opciones limitadas para las clases y no poder tomar lo que necesitamos.,1
+"Estoy harto de que el internet se caiga en medio de las clases virtuales, es imposible concentrarse y pierdo información importante, ¡arréglenlo ya!",1
+Estoy realmente luchando con encontrar y acceder a los materiales del curso. Está haciendo que sea difícil seguir el curso de trabajo.,1
+"""La oficina de asuntos estudiantiles necesita hacer un mejor trabajo para comunicarse con los estudiantes sobre el estado de sus solicitudes de certificado. Es frustrante no saber dónde están las cosas"".",1
+El acceso limitado a la tecnología y el software es un problema importante. Está afectando nuestra capacidad de tener éxito en nuestros cursos y prepararse para la fuerza laboral.,1
+"Estoy luchando para conseguir atención médica para mi lesión relacionada con los deportes, y los recursos de la universidad no son suficientes.",1
+"Sería fantástico que organizaran viajes de estudio a empresas y organizaciones relevantes en nuestra área de estudio, para conocer la realidad del mercado laboral.",3
+"Creo que estaría genial si hubiera más eventos culturales en la universidad, como conciertos o exposiciones de arte, para que tengamos más opciones de entretenimiento.",3
+"Creo que sería útil tener más zonas verdes en el campus, un lugar donde podamos relajarnos y disfrutar de la naturaleza.",3
+Propongo que la universidad tenga un huerto urbano; sería genial aprender sobre agricultura y tener alimentos frescos y saludables.,3
+"Reclamo que me hayan negado el reconocimiento de créditos por una materia que ya cursé en otra universidad, ¡es absurdo!",4
+Reclamo por la falta de información sobre las becas disponibles. No sé dónde buscar y nadie me sabe dar razón. ¡Necesito ayuda con eso!,4
+"Estoy indignado porque me negaron la matrícula para el próximo semestre, dicen que tengo deudas pendientes, pero ya pagué todo. ¡Quiero que revisen mi caso y me permitan matricularme!",4
+"Me da mucha rabia que la comida de la cafetería sea tan poco saludable; siempre frituras y grasas, deberían ofrecer opciones más nutritivas.",1
+"1. Como estudiante internacional, me resulta difícil comunicarme con mis compañeros debido a la barrera del idioma. Es frustrante porque quiero participar en proyectos grupales y actividades extracurriculares, pero me cuesta expresarme adecuadamente"".",1
+Es realmente frustrante no tener más acceso a los asesores académicos. Es importante que tengamos apoyo para poder planificar nuestras carreras académicas.,1
+Las clases en línea no son las mismas que las clases en persona. Me resulta difícil mantenerme comprometido y motivado con el aprendizaje en línea.,1
+"Oigan, profes, ¿podrían grabar las clases? A veces no puedo ir y me pierdo de todo, y después me toca pedir apuntes a los demás, qué pereza.",2
+"Quisiera saber si hay algún programa de apoyo psicológico para estudiantes, me siento estresado y necesito ayuda para manejar la ansiedad.",2
+"Reclamo que no haya suficientes profesores para todas las materias que quiero tomar, siempre me quedo sin cupo y me atraso.",4
+"Exijo que se respete el derecho a la libre expresión de los estudiantes, ¡no pueden censurar nuestras opiniones y protestas!",4
+"Sugiero que organicen más eventos culturales, como conciertos y obras de teatro, la vida universitaria no puede ser solo estudiar.",3
+"Estoy súper molesto porque otra vez se cayó el sistema en medio del parcial de cálculo y perdimos un montón de tiempo valioso, ¡exijo que arreglen eso urgentemente!",4
+"Estoy molesto porque las clases virtuales son muy aburridas, deberían hacerlas más interactivas y dinámicas.",1
+"Me incomoda que los estudiantes fumen en los pasillos de la facultad, el humo me molesta y me da alergia. ¡Deberían prohibir fumar en espacios cerrados!",1
+"Quisiera pedir que habiliten más salas de estudio grupales, a veces es difícil encontrar un lugar tranquilo para trabajar en equipo.",2
+No estoy seguro de poder permitirme terminar mi grado por la cantidad de deuda que ya he acumulado.,1
+Exijo que se investigue el caso de plagio en el trabajo de un compañero. Es una falta grave y debe haber consecuencias.,4
+"Estoy harto de que siempre haya ruido en la biblioteca, la gente no respeta el silencio y no se puede estudiar tranquilo.",1
+"Me quejo de que los baños siempre están sucios y sin papel, ¡es asqueroso!, deberían limpiarlos con más frecuencia, en serio.",1
+"Me molesta que las clases virtuales sean tan largas y aburridas, ¡los profesores solo leen diapositivas y no hay interacción!",1
+"Me gustaría que hubiera más computadores disponibles en las salas de informática, siempre están ocupados y uno necesita usarlos para hacer trabajos.",2
+"6. ""La cafetería siempre está llena durante las horas punta, lo que hace difícil encontrar un lugar para sentarse y comer.""",1
+"Sugiero que implementen más zonas de estudio al aire libre, como con mesas y sombrillas, para poder estudiar tranquilos cuando hace buen clima en el campus.",3
+"Estoy súper inconforme con la cafetería, la comida siempre está fría y carísima, ¡necesitamos opciones más económicas y que valgan la pena!",1
+Exijo que me permitan presentar el trabajo que entregué tarde. Tuve un problema familiar grave y no pude entregarlo a tiempo.,4
+"Las clases en línea son una manera conveniente de aprender, pero las dificultades técnicas que afronté este semestre lo hicieron muy frustrante.",1
+"A pesar de mis esfuerzos por establecer redes, no he podido encontrar ninguna conexión significativa que pudiera conducir a oportunidades de empleo o pasantías.",1
+Me molesta que los profesores dejen demasiadas tareas. No tengo tiempo para hacer nada más que estudiar y no puedo dormir bien.,1
+"Necesitamos que habiliten más salones de estudio grupales, es difícil encontrar un espacio para trabajar en equipo.",2
+"Propongo que organicen ferias de empleo más seguido, para que tengamos más oportunidades de conseguir prácticas o trabajo.",3
+"Reclamo que no me dieron los créditos por la materia que cursé en el intercambio, ¡necesito una solución urgente para poder graduarme!",4
+La dificultad para encontrar y acceder a los materiales del curso está causando mucho estrés a los estudiantes.,1
+"Me quejo de la comida de la cafetería, siempre es lo mismo y ya estoy aburrido, además de que a veces no está bien cocinada, ¡necesitamos más variedad!",1
+"Reclamo que la plataforma virtual falla mucho, sobre todo cuando hay que entregar trabajos importantes, es frustrante.",4
+Estoy harto de que los baños siempre estén sucios. ¿Es mucho pedir que los limpien más seguido? ¡Es un asco!,1
+"Me resulta difícil equilibrar mis actividades extracurriculares con mi trabajo académico, y a menudo me siento estresada y abrumada.",1
+Reclamo formalmente porque me calificaron mal un examen y el profesor no quiere revisar mi caso; siento que mi nota no refleja mi verdadero desempeño.,4
+Estoy teniendo problemas para acceder a bases de datos y materiales de investigación porque las horas de la biblioteca son limitadas y a menudo están cerradas cuando tengo tiempo para estudiar.,1
+"Reclamo la falta de información clara sobre las becas, es muy difícil saber a cuáles puedo aplicar y cuáles son los requisitos.",4
+"Pido que mejoren la comunicación entre la universidad y los estudiantes, a veces me entero de las cosas por terceros, es ineficiente.",2
+"Sugiero organizar más eventos culturales, como conciertos o obras de teatro, para que la vida universitaria no sea solo estudiar.",3
+"Me parece el colmo que el ascensor del edificio de ingenierías siempre esté dañado, ¡uno llega sudado a clase de subir 5 pisos!",1
+"Sería útil que ofrecieran cursos de idiomas gratuitos para los estudiantes, así podríamos mejorar nuestro currículum y tener más oportunidades laborales.",3
+"He estado encontrando difícil equilibrar mi carga de trabajo académico con otros compromisos, como las actividades extracurriculares y la vida social.",1
+"A menudo tengo conflictos con mis otros compromisos, y ha sido difícil encontrar tiempo para centrarme en mis tareas escolares.",1
+"Presento mi reclamo por la falta de accesibilidad para personas con discapacidad, la universidad no está adaptada para todos.",4
+"Propongo que organicen más eventos para fomentar la integración entre estudiantes de diferentes carreras, sería enriquecedor.",3
+"Sugiero que hagan más talleres sobre cómo hacer presentaciones efectivas. A veces uno no sabe cómo exponer bien un tema, sería muy útil.",3
+"Exijo que se respete mi derecho a la libertad de expresión, no pueden censurar mis opiniones en los foros virtuales.",4
+El acceso limitado a bases de datos y materiales de investigación está causando mucha frustración entre los estudiantes. Necesitamos un mejor acceso para ser capaces de tener éxito académico.,1
+Es más difícil formar grupos de estudio y colaborar con compañeros de clase en un entorno en línea.,1
+"He intentado llegar a los ex alumnos para tener oportunidades de networking, pero no he tenido mucha suerte. La universidad debería ofrecer más apoyo para conectar a los estudiantes con los ex alumnos.",1
+"2. ""Como estudiante internacional, a menudo me siento excluido en las actividades grupales, ya que la mayoría de los estudiantes prefieren conversar en su lengua materna"".",1
+Es frustrante que la universidad sólo invierta en ciertos programas deportivos mientras descuida a otros. Es importante apoyar una variedad de intereses deportivos.,1
+Estoy inconforme con la falta de claridad en los criterios de evaluación de algunos profesores. No se sabe qué esperan de uno.,1
+Es frustrante que la universidad cobre tanto por cosas como permisos de estacionamiento y planes de comida.,1
+Parece haber una escasez de prácticas disponibles y vacantes de trabajo en mi campo de estudio.,1
+¿Podrían poner más bebederos en los pasillos? Uno siempre tiene sed y no es práctico tener que ir hasta la cafetería.,2
+"Quisiera solicitar acceso a más libros actualizados en la biblioteca, necesitamos recursos que estén al día con las últimas investigaciones, por favor.",2
+"Recomiendo que hagan talleres sobre cómo manejar el estrés y la ansiedad, muchos estudiantes estamos pasando por momentos difíciles.",3
+"Estoy tratando de graduarme temprano, pero solo hay unos pocos cursos disponibles que necesito tomar. Es frustrante que mis opciones sean tan limitadas.",1
+"Me fastidia que los vigilantes siempre sean tan groseros y desconfiados; parece que todos fuéramos delincuentes, ¡un poquito de amabilidad no les vendría mal!",1
+Sugiero la creación de un club de debate académico. Sería una gran oportunidad para mejorar nuestras habilidades de argumentación y pensamiento crítico.,3
+Estoy realmente frustrado por la falta de transparencia en este curso. El profesor no se comunica con nosotros claramente y está causando mucha confusión.,1
+El acceso limitado a los asesores académicos me está haciendo sentir sin apoyo y desconectado de mis metas académicas.,1
+"Necesito que habiliten más salas de computadoras con acceso a internet, siempre están llenas y no puedo hacer mis trabajos.",2
+"Me quejo de la actitud de algunos funcionarios de la secretaría, son groseros y no te ayudan en nada, ¡capacitenlos en atención al cliente!",1
+"Reclamo que no hay suficientes computadoras disponibles en los laboratorios, siempre tengo que esperar para poder usar una.",4
+El departamento de servicios de carrera de la universidad no proporciona suficientes recursos o apoyo a los estudiantes que buscan pasantías o empleos.,1
+"El material del curso es realmente desafiante, y a menudo siento que estoy por encima de mi cabeza.",1
+Me preocupa la falta de diversidad y representación entre los propios estudiantes-atletas. Es importante que todos los estudiantes tengan igualdad de oportunidades.,1
+"Propongo que hagan un programa de mentorías con egresados exitosos, para que nos guíen y nos den consejos sobre cómo empezar nuestra carrera profesional.",3
+"3. ""Puede ser frustrante tener que explicar constantemente mis antecedentes culturales a los demás, especialmente cuando no parecen interesados en la comprensión.""",1
+"La dificultad del material del curso es mucho mayor de lo que esperaba, y estoy luchando por mantenerme al día.",1
+"Sugiero que hagan campañas de concientización sobre el cuidado del medio ambiente, podemos hacer la universidad más sostenible.",3
+"10. ""Confio en el transporte público para llegar al campus, pero los autobuses suelen llegar tarde o no aparecen en absoluto. Es frustrante y hace que sea difícil planificar mi día"".",1
+Las diferencias horarias para las clases en línea han sido un desafío para los estudiantes internacionales que tienen que ajustar sus horarios para adaptarse a los horarios de clase.,1
+"No me gusta la cultura del equipo deportivo en el que estoy, es muy exclusivo, y algunos miembros no son tratados con justicia.",1
+"Quisiera que hubiera más variedad de libros y revistas actualizadas en la biblioteca, para tener más opciones de consulta.",2
+"Me molesta que los estudiantes fumuen cerca de las entradas de los edificios; el humo es muy molesto y afecta a los que no fumamos, deberían prohibirlo.",1
+"Me quejo de la falta de atención personalizada en la consejería académica, no me ayudan a elegir las materias correctas y me siento perdido.",1
+"Estoy furioso porque me perdí de la inscripción a una materia por culpa de la página web que siempre está fallando, ¡qué irresponsabilidad!",1
+El proceso de solicitud de ayuda financiera es tan confuso y lleva mucho tiempo.,1
+"Estoy muy decepcionado con la atención al cliente en la secretaría, siempre son lentos y poco amables.",1
+"Solicito que revisen el sistema de evaluación del profesor de cálculo, porque creo que es demasiado subjetivo y confuso.",2
+"Me quejo de la falta de iluminación en los pasillos por la noche, da miedo caminar solo y es peligroso, sobre todo para las chicas.",1
+"15. ""A veces siento que hay una división entre estudiantes internacionales y nacionales, y es difícil cerrar esa brecha. Creo que la universidad debería hacer más para alentar y facilitar las interacciones interculturales"".",1
+"Me quejo de la atención en la secretaría académica, siempre son lentos y poco amables; uno va con un problema y sale con tres, ¡qué horror!",1
+He notado que la cultura del equipo deportivo en el campus puede ser exclusiva y elitista. Hace difícil que los recién llegados se sientan bienvenidos.,1
+"Quería preguntar si van a ofrecer descuentos en transporte público para los estudiantes, ayudaría mucho.",2
+"1. ""Me resulta difícil comunicarme con mis compañeros que son de diferentes países. A veces, me cuesta entender sus acentos o la forma en que se expresan"".",1
+"Opino que deberían crear un espacio para que los estudiantes podamos practicar deportes al aire libre, ¡sería muy saludable!",3
+No puedo pagar los tratamientos médicos que necesito sin ayuda financiera.,1
+"14. ""La universidad debería hacer más para ofrecer opciones de vivienda asequibles y accesibles para los estudiantes, especialmente los de bajos ingresos"".",1
+"Propongo que hagan encuestas anónimas sobre la calidad de los profesores, así podríamos dar feedback constructivo sin miedo a represalias.",3
+"Me negaron el derecho a presentar un examen supletorio a pesar de tener una excusa médica válida, ¡eso va en contra del reglamento!",4
+"3. ""Los sándwiches disponibles en el cantine son siempre rancios.""",1
+Siento que estoy en desventaja en el mercado laboral debido a las limitadas oportunidades de desarrollo profesional que ofrece la universidad.,1
+"Estoy furioso porque me negaron la beca sin ninguna explicación. Cumplo con todos los requisitos, así que exijo que revisen mi solicitud de nuevo.",4
+"He tenido que lidiar con una lesión relacionada con los deportes, y los recursos médicos de la universidad para los atletas son muy limitados. He tenido que buscar tratamiento fuera del campus.",1
+"No me parece justo que cobren el parqueadero tan caro, siendo que somos estudiantes y ya pagamos la matrícula, ¡qué abuso!",1
+"Me resulta difícil mantenerme al día con la carga de trabajo académica, sobre todo porque el material del curso es difícil. Equilibrar el trabajo y las responsabilidades académicas es difícil, y a menudo hay conflictos de tiempo con otros compromisos. No duermo lo suficiente, y está empezando a afectar mi salud mental. El estrés y la ansiedad son abrumadores.",1
+"No me dieron el certificado de notas a tiempo y por eso perdí la oportunidad de aplicar a una beca, ¡exijo una compensación!",4
+"¿Podrían poner más iluminación en los senderos del campus? De noche da miedo caminar solo, ¡es peligroso!",2
+El acceso limitado a los recursos académicos me impide participar plenamente en mis estudios y alcanzar todo mi potencial.,1
+Sería muy útil tener acceso a plataformas de aprendizaje en línea con recursos educativos actualizados.,3
+"Sugiero organizar más actividades de integración entre estudiantes de diferentes carreras, así nos conocemos mejor y hacemos amigos.",3
+"Me molesta que la biblioteca siempre esté tan llena. Deberían habilitar más espacios para estudiar, ¡es imposible concentrarse así!",1
+"Quisiera que hubiera más actividades deportivas en la universidad, no solo fútbol, también otros deportes como voleibol o baloncesto.",2
+"Quisiera saber si hay algún programa de apoyo psicológico para estudiantes, ¡a veces uno se siente abrumado y necesita hablar con alguien!",2
+El material del curso para mi clase de física es muy desafiante y estoy luchando para seguir el ritmo. Estoy considerando la posibilidad de buscar ayuda adicional de un tutor.,1
+"6. ""La pizza disponible en el cantine es terrible.""",1
+"Reclamo que no me hayan dado la oportunidad de presentar el examen de recuperación, tenía una justificación válida por enfermedad.",4
+No tolero que se fume dentro de los edificios de la universidad. Es perjudicial para la salud de todos.,1
+Las diferencias horarias para las clases en línea han hecho difícil asistir a conferencias en vivo y participar en actividades grupales.,1
+Estoy luchando con la falta de sueño y la fatiga debido a las demandas de mi carga de trabajo académico.,1
+"Sería bacano que organizaran fiestas temáticas en la universidad; sería una forma de divertirnos y relajarnos después de tanto estudio, ¡pónganle ambiente a esto!",3
+"Me enferma que los baños de hombres siempre huelan mal, es un foco de infección y da asco entrar, deberían fumigar más seguido.",1
+Quisiera saber si la universidad ofrece algún tipo de descuento en el transporte público para los estudiantes. ¡Sería genial!,2
+La universidad necesita hacer más para conectar a los estudiantes con los alumnos que trabajan en sus campos de interés. Es difícil encontrar esas conexiones por nuestra cuenta.,1
+"Quiero pedir que se mejore la comunicación entre la universidad y los estudiantes, a veces no nos enteramos de las cosas importantes.",2
+"Es el colmo que los baños siempre estén sucios y sin papel higiénico, uno no puede ni entrar tranquilo, ¡qué falta de respeto con los estudiantes!",1
+"Quisiera que hubiera más opciones de transporte público que lleguen a la universidad, es difícil y costoso llegar en carro.",2
+"La cultura del equipo deportivo en esta universidad es tóxica, y no me siento bienvenido en el equipo.",1
+La universidad debe proporcionar más recursos para ayudar a los estudiantes a crear y mantener conexiones profesionales en su campo de trabajo deseado.,1
+"Presento una queja formal por el mal estado de las canchas deportivas, están llenas de huecos y es peligroso jugar ahí.",4
+"Propongo que creen un club de debate en la universidad, para fomentar el pensamiento crítico y la participación ciudadana.",3
+"13. ""La comida disponible en el campus es demasiado repetitiva. Me gustaría que hubiera más opciones de menú giratorio.""",1
+"He estado posponiendo ir al médico por un tiempo porque estoy preocupado por el costo. Es una decisión difícil de tomar, pero no puedo pagar los gastos médicos en este momento.",1
+"Sugiero organizar más actividades culturales, como conciertos o obras de teatro, para que la vida universitaria no sea solo estudiar.",3
+"Propongo que hagan clases de yoga o meditación en la universidad, ayudaría a reducir el estrés y mejorar nuestra salud mental.",3
+"Reclamo que no haya suficientes libros actualizados en la biblioteca, siempre toca recurrir a internet, ¡qué atraso!",4
+"Deberían poner más bebederos con agua filtrada en el campus, uno se deshidrata caminando entre edificios y no hay dónde tomar agua buena.",3
+"Exijo que me devuelvan el dinero del curso que cancelé, ya pasaron dos meses y todavía no me han hecho el reembolso, ¡esto es el colmo!",4
+Exijo que se investigue el plagio en el trabajo final de mi compañero. Es injusto que obtenga una buena nota copiando el trabajo de otros.,4
+Sugiero que hagan campañas de sensibilización sobre temas importantes como la salud mental y la prevención del acoso.,3
+"6. ""Creo que sería útil que la universidad organizara más eventos y actividades específicamente diseñados para reunir a estudiantes internacionales y nacionales. De esa manera, podríamos aprender unos de otros y construir relaciones más fuertes"".",1
+"Quisiera saber si hay algún programa de intercambio de idiomas, me gustaría practicar inglés con hablantes nativos y mejorar mi nivel.",2
+"¿Podrían mejorar la señalización en el campus? Es muy fácil perderse, especialmente para los estudiantes nuevos.",2
+"Me emputa que los profesores pongan exámenes sorpresa. Uno no tiene tiempo de prepararse bien, ¡qué injusticia!",1
+"15. ""La tienda de conveniencia del campus debe ofrecer opciones de aperitivos más saludables. La mayoría de los artículos disponibles son altos en azúcar y calorías.""",1
+Estoy frustrado porque las clases virtuales son aburridas y poco interactivas. Necesitamos metodologías más dinámicas.,1
+"Quisiera saber si van a abrir más cupos para el taller de fotografía, me inscribí pero quedé en lista de espera y me muero por entrar.",2
+"Me incomoda que los vigilantes sean tan groseros, ¡uno les pregunta algo y responden mal, deberían capacitarlos en atención al público!",1
+"La carga de trabajo académica me está afectando, especialmente porque el material del curso es tan difícil. Estoy tratando de manejar mi tiempo de manera efectiva, pero es un reto equilibrar el trabajo y las responsabilidades académicas. Siempre hay conflictos de tiempo con otros compromisos, y no estoy durmiendo lo suficiente. Esto me está causando estrés y ansiedad, y está empezando a afectar mi salud mental.",1
+"Sería bueno que implementaran un sistema de transporte interno para movernos entre los edificios, ¡las distancias son enormes!",3
+"21. ""La calidad de la comida en el campus varía ampliamente. A veces es genial, pero otras veces es apenas comestible"".",1
+"Me parece injusto que nos hayan cambiado la fecha del examen final sin avisar con anticipación, muchos ya teníamos planes y ahora toca cambiarlos.",4
+"Me molesta que las fotocopias sean tan caras, deberían bajar el precio o buscar otra alternativa, ¡es un abuso!",1
+¿Podrían habilitar más salas de estudio grupales en la biblioteca? Siempre están llenas y necesitamos un espacio para trabajar.,2
+"Sugiero que creen un grupo de apoyo para estudiantes con problemas de salud mental, muchos necesitamos ayuda y no sabemos a dónde acudir.",3
+"Exijo que me devuelvan el dinero del curso que cancelé, ya llevo meses esperando el reembolso y nadie me da una respuesta clara.",4
+Reclamo que no me hayan dado respuesta a mi solicitud de cambio de grupo. Llevo semanas esperando y necesito resolver este problema urgente.,4
+"Oigan, exijo que arreglen los computadores de la biblioteca, están más lentos que una tortuga y uno no puede hacer nada bien.",4
+"Estoy harto de que el sistema de inscripción de materias siempre falle, es un caos total y nunca logro inscribir lo que necesito.",1
+"Por favor, pongan más enchufes en los salones, siempre necesito cargar mi portátil y no encuentro dónde conectarlo.",2
+"Creo que deberían organizar más talleres sobre habilidades blandas, ¡son importantes para el mundo laboral y no nos las enseñan!",3
+"Exijo que me devuelvan el dinero del curso que cancelé; ya pasó un mes y todavía no me han hecho el reembolso, ¡qué irresponsabilidad!",4
+"Exijo que revisen el sistema de calificaciones, porque me aparece una nota que no es y ya hablé con el profesor, pero aún no me la corrigen, ¡qué negligencia!",4
+"Sugiero que implementen un sistema de bicicletas compartidas en el campus, sería súper útil para movernos entre edificios.",3
+"Me siento discriminado, el profesor me trata diferente a mis compañeros y me hace comentarios ofensivos, exijo que tomen medidas al respecto.",4
+"Profe, ¿será que puede subir las diapositivas de la clase de hoy? Es que me perdí un montón con esa explicación tan rápida y necesito repasarla bien para el parcial.",2
+"No me parece justo que cobren la inscripción a los talleres culturales tan cara, ¡uno viene aquí a aprender y nos toca pagar por todo!",4
+"Estoy cansado de que las filas en la secretaría sean interminables, deberían implementar un sistema de citas online, sería mucho más eficiente.",1
+"Exijo una revisión de mi examen de física, estoy seguro de que me equivoqué en el procedimiento, pero el resultado final es correcto.",4
+"Tuve que gastar mucho dinero en tecnología y equipo adicionales para participar en mis clases en línea, que era una carga financiera.",1
+"El costo de los libros de texto y otros materiales del curso es tan alto, que es difícil pagar todo lo que necesito para la clase.",1
+"Exijo que se respeten los horarios de las clases, hay profesores que se exceden y nos quitan tiempo de descanso, ¡cumplan con el reglamento!",4
+La universidad debe tomar medidas para garantizar el cumplimiento del Título IX y crear condiciones equitativas para todos los atletas.,1
+"Estaría genial que hubiera más talleres de habilidades blandas, como comunicación efectiva o liderazgo, ¡sería súper útil para el futuro!",3
+"Estoy luchando por mantenerme al día con mis cursos debido a conflictos de tiempo con otros compromisos, como el trabajo a tiempo parcial y las obligaciones familiares.",1
+Estoy harto de que los salones no tengan aire acondicionado. En este clima es imposible concentrarse en clase. ¡Necesitamos ventilación!,1
+El acceso limitado a los asesores académicos está haciendo que sea difícil para mí planificar mi carrera académica y obtener el apoyo que necesito.,1
+Estoy cansado de que los baños siempre estén sucios y sin papel higiénico. Es una falta de respeto hacia los estudiantes.,1
+Sugiero que hagan campañas de concientización sobre el reciclaje; es importante cuidar el medio ambiente y promover prácticas sostenibles en la universidad.,3
+"Me parece inaceptable que no haya rampas de acceso para personas con discapacidad en algunos edificios, ¡es una falta de inclusión!",1
+"Presento un reclamo formal por la discriminación que sufrí por parte de un profesor, no es justo que me trate diferente por mi origen.",4
+"Demando que se tomen medidas contra el acoso escolar, he sido víctima de comentarios ofensivos por parte de mis compañeros y no sé a quién acudir.",4
+"3. ""Encontrar un lugar de estacionamiento en el campus es casi imposible, y las tarifas de estacionamiento son exorbitantes. Simplemente no vale la pena llevar mi coche a la escuela"".",1
+"Creo que deberían organizar más eventos sociales para los estudiantes de primer semestre, así sería más fácil integrarnos y conocer gente nueva.",3
+"Quería saber si es posible que habiliten un espacio para que los estudiantes podamos calentar nuestra comida, ¡sería muy útil!",2
+No estoy seguro de poder permitirme terminar mi grado por la cantidad de deuda que ya he acumulado.,1
+"He solicitado una constancia de estudios y aún no me la han entregado, necesito ese documento con urgencia.",4
+El profesor de este curso no es accesible. Tengo miedo de pedirles ayuda y está obstaculizando mi éxito.,1
+"Quisiera que habilitaran un espacio para que los estudiantes podamos vender nuestros productos o servicios, ¡sería una buena oportunidad!",2
+"Sería genial que organizaran más eventos culturales, como conciertos o obras de teatro. A veces la vida universitaria es muy monótona, necesitamos algo de diversión.",3
+"Presenté una solicitud de beca y me la negaron sin darme una explicación clara, quiero saber por qué no fui elegible y qué puedo hacer.",4
+"Recibí una carta amenazando con dejarme en mis clases porque no podía hacer un pago a tiempo, a pesar de que he estado haciendo todo lo posible para mantenerme al día con mis gastos.",1
+"Quisiera que la universidad ofreciera más becas para estudiantes de bajos recursos, muchos tenemos el talento pero no los medios para estudiar.",2
+Reclamo que no me hayan dado información clara sobre el proceso de graduación. Estoy perdido y no sé qué tengo que hacer.,4
+Reclamo la falta de seguridad en algunas zonas del campus. Deberían poner más vigilancia para evitar robos y agresiones.,4
+"Estoy harto de tener que comprar libros obligatorios que son carísimos y que solo usamos una vez, ¡deberían buscar alternativas más económicas!",1
+"Sugiero que hagan convenios con empresas para que podamos hacer prácticas profesionales, así tendríamos más experiencia laboral antes de graduarnos.",3
+"Reclamo que las aulas no tengan aire acondicionado, en verano hace un calor insoportable y es imposible concentrarse.",4
+"No califico para muchas becas debido a mi especialidad, lo cual es frustrante.",1
+La biblioteca está súper desordenada. Encuentro libros fuera de lugar y a veces ni siquiera encuentro lo que necesito. Deberían organizar mejor.,1
+La disponibilidad limitada de los cursos está causando mucho estrés para los estudiantes. Necesitamos más opciones para poder tomar las clases que necesitamos.,1
+"He estado tratando de encontrar un especialista para una condición médica específica, pero ha sido muy difícil. Hay opciones limitadas en mi área y los que están disponibles son muy caros.",1
+"""Siento que hay una brecha cultural entre yo y mis compañeros de clase. A veces no entiendo las referencias que hacen o la forma en que abordan ciertos temas. Hace que sea difícil sentir que soy realmente parte de la comunidad"".",1
+"Sería bueno tener un espacio para meditar o relajarnos, el estrés de la universidad es muy alto y necesitamos un respiro.",3
+El acceso limitado a la tecnología y el software está obstaculizando mi capacidad de hacer mi trabajo de curso. No puedo permitirme comprar programas caros por mi cuenta.,1
+Siento que mis necesidades de salud mental no son tomadas en serio por mi proveedor de seguros.,1
+"Protesto porque no se me permitió presentar un trabajo después de la fecha límite, a pesar de tener una justificación médica válida.",4
+"Me cobraron de más en la liquidación de la matrícula, ¡ya fui a reclamar tres veces y todavía no me dan solución, qué desastre!",4
+"Necesito que pongan más parqueaderos para bicicletas, a veces no encuentro dónde dejar mi bicicleta y tengo que caminar mucho.",2
+"Exijo que se investigue el caso de plagio en mi grupo de trabajo, ¡es injusto que todos paguemos por uno!",4
+"Me molesta que no haya suficientes parqueaderos para bicicletas, las tengo que dejar amarradas en cualquier lado y me da miedo que las roben.",1
+Sugiero crear un espacio de coworking para que los estudiantes podamos trabajar en nuestros proyectos y emprender nuestros propios negocios.,3
+"Exijo que se tomen medidas contra el bullying en la universidad, he visto casos de estudiantes que sufren mucho por esto.",4
+La universidad debería proporcionar más recursos para ayudar a los estudiantes a desarrollar las habilidades necesarias para establecer redes que les permitan tener éxito en el mercado laboral.,1
+"Creo que deberían crear un programa de apoyo psicológico para los estudiantes, muchos estamos pasando por momentos difíciles y necesitamos ayuda.",3
+He sido duramente golpeado por la deuda de préstamos estudiantiles y está afectando mi capacidad de enfocarme en mis estudios.,1
+Necesito trabajar en mis habilidades de gestión del tiempo porque me siento constantemente atrasado en mis cursos.,1
+Me gustaría que hubiera más asesores académicos disponibles para guiarme a través de mi programa de licenciatura y ayudarme a sacar el máximo provecho de mi experiencia universitaria.,1
+"Reclamo que me cobraron de más en la matrícula, ya presenté los papeles y todavía no me han solucionado el problema. ¡Necesito una respuesta!",4
+Sugiero que organicen ferias de empleo más seguido. Es una buena oportunidad para contactar empresas y buscar prácticas profesionales.,3
+"6. ""Es frustrante cuando los profesores y compañeros de clase asumen que todos los estudiantes están familiarizados con ciertas referencias culturales o expresiones. Sería bueno que hubiera más educación y conciencia en torno a las diferencias culturales"".",1
+"Propongo que hagan campañas de concientización sobre el cuidado del medio ambiente en el campus, para ser más sostenibles.",3
+"Presento una queja formal por el plagio en el trabajo de un compañero, lo copió de internet y el profesor no hizo nada al respecto.",4
+"Exijo que me den una solución al problema con mi cuenta, ¡no puedo acceder a mis notas ni a los recursos de la universidad!",4
+"Sugiero que organicen talleres sobre cómo manejar el estrés y la ansiedad, la vida universitaria es muy exigente y necesitamos herramientas para afrontarla.",3
+"Reclamo por el cobro excesivo de la matrícula, con todas las fallas que hay en la universidad, no se justifica pagar tanto dinero, quiero una explicación.",4
+Propongo crear un grupo de estudio para cada materia. Así nos ayudaríamos entre todos y mejoraríamos el rendimiento académico.,3
+"Me molesta muchísimo que la plataforma virtual siempre se caiga cuando hay que entregar trabajos importantes, ¡es una tortura!",1
+"Estoy harto de que los ascensores siempre estén dañados, toca subir las escaleras con todos los libros, qué cansancio.",1
+"Sería genial que crearan un programa de mentoría entre estudiantes de diferentes semestres, para apoyarnos mutuamente.",3
+El formato en línea puede hacer que sea difícil participar en actividades extracurriculares y clubes.,1
+La carga financiera de la universidad está causando que muchos estudiantes abandonen sus estudios o tarden más tiempo en completar sus estudios.,1
+Sería bueno tener un espacio dedicado a la lactancia materna para las estudiantes que son mamás.,3
+"Reclamo formalmente que no me hayan dado los puntos extra por participar en el seminario, ¡tengo las pruebas y todo!",4
+"Estoy luchando con la carga de trabajo académica y la dificultad del material del curso. Necesito mejorar mis habilidades de gestión del tiempo para equilibrar el trabajo y las responsabilidades académicas, pero siempre hay conflictos de tiempo con otros compromisos. No duermo bien, y está afectando mi salud mental. Me siento estresado y ansioso todo el tiempo.",1
+"14. ""Me preocupa que mis dificultades lingüísticas me detengan en mi futura carrera. Es frustrante pensar que podría ser juzgado más duramente que los hablantes nativos, incluso si estoy tan calificado.""",1
+"El formato en línea puede ser especialmente desafiante para cursos prácticos como arte, música y ciencias basadas en laboratorios.",1
+"Quiero pedir que habiliten más bebederos con agua potable en la universidad; a veces hace mucho calor y no hay donde hidratarse, es necesario.",2
+"Exijo que me reconsideren la nota del trabajo final; me esforcé mucho y merezco una mejor calificación, ¡no es justo que me hayan puesto tan poco!",4
+"Necesito que habiliten más computadores en la biblioteca, porque siempre están todos ocupados y no puedo hacer mis trabajos, ¡es urgente!",2
+"5. ""¡Las opciones vegetarianas en la cafetería son deliciosas!""",1
+Me preocupa la calidad de la atención de salud mental que puedo pagar.,1
+"Me molesta que las clases empiecen tan temprano, a veces no alcanzo a llegar a tiempo por el tráfico, ¡deberían considerar horarios más flexibles!",1
+"La falta de acceso a los asesores académicos es realmente preocupante, especialmente cuando tengo preguntas sobre la selección de cursos y la planificación de la carrera.",1
+"9. ""Las opciones de comida del campus no son muy diversas, y a menudo termino comiendo las mismas cosas una y otra vez"".",1
+"Quería saber si hay algún programa de becas para estudiantes que tenemos dificultades económicas, me vendría muy bien una ayuda para poder seguir estudiando.",2
+"Pido una explicación por la calificación tan baja en mi proyecto final, considero que cumplí con todos los requisitos y merezco más.",4
+"Estoy harto de que las máquinas expendedoras siempre estén vacías o dañadas, no hay dónde comprar algo rápido para comer.",1
+"""Recibí mi certificado de formación de un curso que tomé durante el verano, pero la universidad no lo acepta porque es de una institución no acreditada. Esto es frustrante porque el curso era relevante para mi especialidad y aprendí mucho de él"".",1
+No me gusta que los profesores usen lenguaje ofensivo o discriminatorio en clase. ¡Deberían ser más respetuosos!,1
+"Reclamo que los profesores no suben las notas a tiempo, me genera mucha ansiedad no saber cómo voy en la materia hasta el último minuto.",4
+Es inaceptable que los baños del edificio de ingeniería estén siempre sucios y sin papel higiénico. ¡Qué falta de respeto!,1
+Necesito que me expliquen cómo funciona el sistema de créditos académicos; estoy confundido y no sé cómo elegir las materias para el próximo semestre.,2
+"Sugiero que hagan campañas de concientización sobre la salud mental, muchos estudiantes sufren en silencio.",3
+"Solicito que se ofrezcan más cursos de idiomas, me gustaría aprender inglés o francés, pero no hay muchas opciones disponibles en la universidad.",2
+El número limitado de pasantías y oportunidades de trabajo disponibles en mi área me preocupa acerca de mis perspectivas de carrera futuras.,1
+"Necesito que me informen sobre las opciones de financiación para mis estudios, no tengo los recursos suficientes para pagar la matrícula completa.",2
+"Exijo que revisen la calificación del parcial de física, porque estoy seguro de que hay un error y merezco una nota más alta.",4
+"No estoy de acuerdo con la forma en que están evaluando en esta materia, siento que no se están teniendo en cuenta nuestros esfuerzos, ¡exijo una revisión!",4
+"Propongo que organicen más eventos culturales en la universidad, como conciertos o obras de teatro; sería genial para desconectar un poco del estudio.",3
+Ojalá hubiera más recursos disponibles para ayudarme a aprender a manejar mis finanzas como estudiante universitario.,1
+Quisiera saber si la universidad tiene convenios con empresas para hacer prácticas profesionales. ¡Necesito experiencia laboral!,2
+"Quisiera saber si existe la posibilidad de ampliar los horarios de la biblioteca los fines de semana, necesito más tiempo para estudiar y concentrarme.",2
+"Sería genial que pusieran más enchufes en la biblioteca, siempre tengo que andar buscando desesperado dónde conectar mi portátil.",3
+"Creo que sería útil tener un servicio de orientación psicológica para estudiantes, a veces uno necesita apoyo.",3
+Sería útil que la universidad ofreciera cursos de idiomas gratuitos para los estudiantes; nos ayudaría mucho para el futuro laboral.,3
+"El material del curso es extremadamente desafiante, y a menudo siento que no lo entiendo completamente.",1
+Me parece una falta de respeto que el profesor llegue media hora tarde a clase todos los días. Uno se trasnocha haciendo tareas para esto.,1
+Me parece injusto que cobren la inscripción tan cara y los laboratorios no tengan los equipos actualizados.,4
+"Solicito que amplíen el horario de atención de la oficina de registro académico, porque siempre está llena y no alcanzo a hacer mis trámites, ¡qué congestión!",2
+Me gustaría que hubiera más oportunidades de becas disponibles para estudiantes como yo que no vienen de orígenes ricos.,1
+"No soporto el ruido que hacen los vendedores ambulantes en la entrada de la universidad, no dejan concentrarse y dificultan el paso. ¡Deberían controlar la venta ambulante!",1
+"18. ""La cafetería debería ofrecer opciones más saludables"".",1
+"Exijo que revisen el sistema de evaluación de la materia; el profesor califica muy subjetivamente y no hay criterios claros, ¡qué injusticia!",4
+"Estoy indignado, me robaron mi computador en la biblioteca y la universidad no se hace responsable, quiero que me indemnicen por la pérdida.",4
+Propongo que implementen un programa de reciclaje más efectivo en toda la universidad. Hay muy pocos puntos ecológicos.,3
+"2. ""Ojalá hubiera más opciones veganas en la cafetería.""",1
+"Quisiera saber si van a ofrecer cursos de preparación para el examen de admisión a posgrado, me gustaría seguir estudiando, pero necesito ayuda.",2
+Solicito que instalen más máquinas expendedoras de snacks y bebidas en los edificios académicos. A veces da hambre entre clases.,2
+Me gustaría que hubiera más becas disponibles específicamente para los estudiantes en mi carrera.,1
+"Me molesta mucho que los vigilantes sean tan groseros, siempre me revisan mal y me hacen sentir incómodo, deberían ser más amables.",1
+Desearía que hubiera más recursos disponibles para ayudar a los estudiantes a gestionar sus finanzas.,1
+"Es un reto mantenerme al día con la carga de trabajo académica, especialmente porque el material del curso es tan difícil. Necesito trabajar en mis habilidades de gestión del tiempo para equilibrar el trabajo y las responsabilidades académicas, pero siempre hay conflictos de tiempo con otros compromisos.La falta de sueño está empezando a afectar mi salud mental, y me siento estresada y ansiosa.",1
+"25. ""El cantine debería ofrecer más opciones para las personas con alergias alimentarias"".",1
+"Me parece terrible que el wifi del campus se caiga a cada rato, ¡necesito internet para investigar y hacer mis trabajos! Es una tortura.",1
+"Estoy harto de que el internet en el campus sea tan lento; uno no puede ni abrir un correo electrónico, ¡es frustrante!",1
+Quisiera saber si ofrecen algún tipo de descuento en el gimnasio para estudiantes de bajos recursos.,2
+"23. ""El sistema de transporte público es a menudo poco fiable e inseguro, lo que me hace sentir ansioso y estresado cada vez",1
+"24. ""Ojalá hubiera más carriles para bicicletas cerca de la universidad, haría más fácil viajar en bicicleta"".",1
+Es frustrante que mi seguro médico no cubra todos mis gastos médicos.,1
+"He descubierto que la carga de trabajo académico ha sido extremadamente pesada este semestre, lo que me ha dejado abrumado y estresado.",1
+"Estoy harto de que el internet en la biblioteca sea tan lento, ¡no puedo ni hacer la investigación para el trabajo! Exijo una solución rápida.",4
+Presento un reclamo formal por el trato discriminatorio que recibí por parte de un funcionario de la biblioteca.,4
+Las clases en línea pueden exacerbar los sentimientos de aislamiento y soledad para los estudiantes que luchan por establecer conexiones con sus compañeros.,1
+"Me molesta que la plataforma virtual siempre esté lenta y se caiga cuando tengo que entregar un trabajo importante, ¡qué estrés!",1
+"Me quejo de la comida de la cafetería, siempre es la misma y sabe horrible, ¡necesitamos más variedad y mejor calidad, por favor!",1
+"Exijo que revisen la calificación del examen de cálculo, porque estoy seguro de que hay un error, ¡me esforcé mucho y merezco una mejor nota!",4
+La falta de interacción cara a cara en las clases en línea hace que sea difícil hacer preguntas y recibir comentarios.,1
+"Demando una explicación por el aumento tan drástico en el precio de la matrícula, ¡no podemos pagar tanto, es un abuso!",4
+"Presento este reclamo porque no se respetan los derechos de los estudiantes con discapacidad, faltan rampas y acceso adecuado.",4
+"Sugiero crear un grupo de apoyo psicológico para estudiantes, a veces el estrés académico es demasiado y necesitamos ayuda.",3
+"Quisiera que hubiera más talleres prácticos en mi carrera, siento que la teoría es muy abstracta y necesito aprender haciendo.",2
+La universidad debe asociarse con más empresas para ofrecer pasantías y oportunidades de trabajo a los estudiantes.,1
+"Reclamo que no me dieron el título a tiempo; ya terminé todas las materias y me dicen que hay un problema con mi expediente, me perjudica mucho.",4
+"Reclamo que no me hayan respondido mi correo electrónico, ya llevo días esperando una respuesta y necesito solucionar mi problema urgentemente.",4
+Sugiero que implementen un sistema de tutorías entre estudiantes. Los alumnos más avanzados podríamos ayudar a los que están empezando.,3
+Estoy constantemente preocupado por tener suficiente dinero para pagar mis cuentas y pagar mi educación al mismo tiempo.,1
+"El estrés y la ansiedad de la vida universitaria ha sido realmente abrumador, y ha estado afectando mi salud mental.",1
+La falta de interacción y compromiso en mis clases en línea hizo difícil mantenerse motivado y enfocado en el material.,1
+Estoy harto de que siempre haya ruido en la biblioteca. ¡Es imposible concentrarse para estudiar!,1
+"Exijo que me den una explicación por qué me suspendieron sin previo aviso, no hice nada malo y creo que es una injusticia.",4
+"La oficina de ayuda financiera siempre está tan llena y con poco personal, lo que hace difícil obtener la ayuda que necesito.",1
+"Exijo una revisión de mi trabajo final, considero que mi nota es injusta y que no se valoró el esfuerzo que le dediqué.",4
+"Exijo que revisen las notas del parcial de física, siento que hubo errores en la calificación y mi nota no refleja mi esfuerzo.",4
+"Estoy harto de que me roben mis pertenencias en la universidad, ya me han robado dos veces mi celular y mi billetera. ¡Exijo más seguridad en el campus!",4
+Sugiero que implementen un sistema de evaluación de profesores por parte de los estudiantes. Así podrían mejorar la calidad de la enseñanza y saber qué están haciendo bien o mal.,3
+"Propongo crear un espacio para que los estudiantes podamos vender nuestros productos o servicios, sería una forma de generar ingresos.",3
+"Me reclamo porque pagué la matrícula a tiempo y ahora me están cobrando recargos por mora, esto debe ser un error y lo quiero solucionar.",4
+¿Podrían mejorar la señalización en el campus? A veces me pierdo y no encuentro las aulas.,2
+"¿Podrían poner más mesas y sillas en las zonas verdes? Es agradable estudiar al aire libre, pero no hay dónde sentarse.",2
+Me preocupa la falta de rigor académico en este curso.,1
+Quisiera pedir que amplíen el horario de atención de la secretaría académica; a veces necesito hacer trámites y no puedo porque siempre está cerrada.,2
+Quisiera que la universidad tuviera convenios con empresas para hacer prácticas profesionales. Facilitaría mucho la entrada al mundo laboral después de graduarnos.,2
+"Estoy harto de que la cafetería siempre se quede sin empanadas antes del almuerzo. ¡Siempre me toca comer ensalada! Exijo una solución, ¡quiero mi empanada!",4
+"16. ""Las hamburguesas de la cafetería siempre están sobrecocinadas"".",1
+"La gestión de la carga de trabajo académica y la dificultad del material de curso es una lucha constante. Necesito mejorar mis habilidades de gestión del tiempo para equilibrar el trabajo y las responsabilidades académicas, pero es difícil cuando tengo conflictos de tiempo con otros compromisos.La falta de sueño está empezando a afectar mi salud mental, y me siento estresada y ansiosa.",1
+"Sugiero que pongan más bebederos de agua en el campus, especialmente ahora que hace tanto calor, ¡uno se deshidrata caminando!",3
+Estoy decepcionado con la desigualdad de género en los deportes. Los equipos femeninos a menudo reciben fondos insuficientes y no se les dan las mismas oportunidades que los equipos masculinos.,1
+Las oportunidades de desarrollo profesional que ofrece la universidad son limitadas y no son suficientes para satisfacer las demandas del mercado laboral.,1
+"Estoy cansado de que los computadores de la biblioteca siempre estén dañados; uno nunca puede hacer trabajos tranquilo, ¡qué desastre!",1
+"Me quejo de que los baños siempre están sucios y sin papel higiénico, es una falta de respeto hacia los estudiantes y la higiene personal.",1
+La cultura del equipo deportivo en el campus puede ser tóxica y dañina. Es importante que la universidad promueva un ambiente positivo e inclusivo.,1
+"9. ""Como estudiante doméstico, a veces me siento culpable de no saber más sobre otras culturas e idiomas. Ojalá hubiera más oportunidades para aprender y participar con estudiantes internacionales"".",1
+"21. ""El cantine debería ofrecer más opciones vegetarianas.""",1
+"Propongo que hagan más talleres de habilidades blandas, nos servirían mucho para el mundo laboral.",3
+"Exijo que revisen la calificación del parcial de cálculo, siento que no me calificaron bien un punto y eso me perjudica bastante en mi promedio.",4
+"Demando una solución al problema de los parqueaderos, ¡nunca hay cupo y uno tiene que dejar el carro lejos y caminar mucho!",4
+"Propongo que hagan más actividades deportivas. No todo puede ser estudio, necesitamos hacer ejercicio para mantenernos saludables.",3
+Estoy preocupado por mi salud mental pero no puedo permitirme recibir la atención que necesito.,1
+"""La falta de organización y comunicación en la oficina de asuntos estudiantiles está causando mucho estrés innecesario para los estudiantes. Es hora de que se pongan de pie y lo hagan mejor"".",1
+Quisiera saber si hay algún programa de apoyo para estudiantes internacionales. ¡A veces me siento muy solo!,2
+"8. ""Creo que sería útil que la universidad proporcionara más recursos para los estudiantes internacionales que están luchando con las barreras lingüísticas o culturales. Tal vez un programa de tutoría o grupo de apoyo"".",1
+"Propongo que organicen actividades deportivas y recreativas más seguido, para fomentar la vida saludable en el campus.",3
+El acceso limitado a la tecnología y el software es un problema importante para los estudiantes. Es importante que tengamos acceso a las herramientas que necesitamos para tener éxito académico y en la fuerza laboral.,1
+"Me quejo del ruido constante en la biblioteca; la gente habla muy duro y no se puede estudiar, ¡necesitamos silencio!",1
+La falta de cursos disponibles está haciendo que sea difícil tomar electivos que me interesen. Siento que mis opciones académicas son demasiado limitadas.,1
+"Estoy harto de que la cafetería sea tan cara; los precios son excesivos y la comida no es de buena calidad, deberían bajar los precios o mejorar la oferta.",1
+El acceso limitado a recursos técnicos y software puede dificultar la experiencia de aprendizaje en clases en línea.,1
+La falta de acceso a instalaciones del campus como bibliotecas y espacios de estudio puede dificultar el estudio y la realización de cursos.,1
+Me molesta que los estudiantes de otros cursos hagan mucho ruido en la biblioteca.,1
+"Estoy indignado porque me suspendieron por una cosa que no hice. Pruebo mi inocencia, así que exijo que me levanten la sanción inmediatamente.",4
+"Estoy súper frustrado porque la conexión a internet en la biblioteca es pésima, ¡no se puede hacer nada! Necesito una solución urgente para poder estudiar bien.",1
+"Estoy indignado con la falta de opciones vegetarianas y veganas en la cafetería, todos tenemos derecho a una alimentación adecuada.",1
+"Solicito que haya más variedad de libros y revistas en la biblioteca, necesito más recursos para investigar y hacer mis trabajos.",2
+Estoy muy decepcionado con la calidad de la educación que estoy recibiendo. ¡Esperaba más de esta universidad!,1
+"He solicitado varios trabajos para los que estaba calificado, pero nunca he recibido respuesta. Es frustrante y desearía que la universidad pudiera ofrecer más orientación en esta área.",1
+"Exijo que me devuelvan el dinero del curso de inglés que cancelé, me dijeron que no había problema y ahora no me responden.",4
+"Creo que deberían implementar un sistema de evaluación docente más justo, donde los estudiantes podamos dar nuestra opinión de forma anónima.",3
+"Estoy harto de que los salones siempre estén llenos y tengamos que sentarnos en el piso, ¡necesitamos salones más grandes urgentemente!",1
+"Reclamo formalmente la falta de transparencia en la evaluación de los trabajos, nunca sabemos por qué sacamos la nota que sacamos.",4
+"Estoy mamado de que los baños siempre estén sucios y sin papel higiénico, ¡parece una pocilga y no un lugar para estudiantes!",1
+"Pido que se revisen los criterios de evaluación de la materia de estadística, me parece que son demasiado subjetivos y no reflejan mi verdadero conocimiento.",4
+"Solicito que amplíen el horario de atención de la biblioteca los fines de semana, porque es cuando tengo más tiempo para estudiar y hacer mis trabajos.",2
+"Exijo que revisen mi caso, me negaron la homologación de unas materias que ya había cursado en otra universidad, ¡cumplo con todos los requisitos, esto es injusto!",4
+"8. ""Aprecio las opciones vegetarianas y veganas disponibles en el campus, pero a menudo se agotan o no se reponen de manera oportuna.""",1
+"Exijo una explicación por la cancelación repentina de la clase; no nos avisaron con tiempo y perdimos el viaje, ¡es inaceptable!",4
+"Quisiera saber si existe algún tipo de beca para estudiantes con buen promedio pero bajos recursos, ¡necesito ayuda para seguir estudiando, por favor!",2
+"Exijo que me devuelvan el dinero del curso que cancelé, me dijeron que me lo reembolsarían y todavía no he visto nada, ¡quiero mi plata!",4
+"Quisiera que me dieran información sobre los requisitos para graduarme, no quiero tener sorpresas de último momento.",2
+"Presento mi inconformidad porque me negaron la inscripción a una materia que necesitaba para graduarme, no entiendo por qué no me dejaron, ¡qué decepción!",4
+"Me revienta que los baños de hombres siempre estén inundados; parece que nadie se preocupa por arreglar las fugas, ¡qué desastre!",1
+"Profe, ¿podría subir las diapositivas de la clase de hoy? Es que iba en el bus y se me cortó la señal como diez veces, no pude tomar apuntes bien.",2
+"Estoy harto de que los salones de clase estén tan deteriorados, las sillas rotas y los tableros sucios, ¡qué falta de respeto!",1
+"45. ""La cafetería debería ofrecer opciones más orgánicas"".",1
+La falta de oportunidades disponibles de networking hace que sea difícil conectarse con profesionales en mi campo deseado.,1
+"3. ""Ojalá hubiera opciones de viaje más asequibles para los estudiantes. Es difícil justificar gastar una tonelada de dinero en un viaje cuando ya estamos luchando para llegar a fin de mes con la matrícula y los gastos de vida.""",1
+"Me quejo de la atención en la secretaría, siempre están ocupados o no saben responder mis preguntas, ¡necesitan capacitar mejor al personal!",1
+"Podrían poner más bebederos de agua en los edificios, es importante mantenerse hidratado durante las clases, piénsenlo.",3
+Reclamo que el jurado de mi tesis no me hizo comentarios constructivos. ¡Solo me criticaron y no me dieron ninguna orientación!,4
+"Reclamo que las instalaciones deportivas estén en mal estado, la cancha de fútbol está llena de huecos, ¡qué peligro!",4
+"Me quejo de que los salones no tengan buena ventilación, ¡uno se sofoca en clase!",1
+"Deberían poner más bebederos de agua en el campus, especialmente cerca de las canchas, porque uno se deshidrata mucho después de jugar.",3
+"No me parece bien que nos obliguen a asistir a eventos que no son relevantes para nuestra carrera, es una pérdida de tiempo.",4
+Sería útil tener más zonas de estudio al aire libre con mesas y sillas.,3
+"Creo que sería genial que organizaran eventos deportivos interuniversitarios, ¡sería una forma de promover la actividad física y la integración!",3
+"Estoy harto de que el internet en la biblioteca sea tan lento, ¡uno viene aquí a estudiar y termina gastando los datos del celular, qué rabia!",1
+"Sería fantástico que tuviéramos acceso a programas de apoyo psicológico, a veces el estrés de la universidad es demasiado, ¡necesitamos ayuda!",3
+Pido que se considere la posibilidad de tener más flexibilidad en los horarios de cursada; muchos trabajamos y se nos complica asistir a todas las clases.,2
+"Pido que pongan más estaciones de reciclaje en el campus, es importante que la universidad sea un ejemplo de compromiso con el medio ambiente.",2
+"Quisiera saber si van a habilitar más cupos para el curso de inglés avanzado, porque me quedé por fuera y lo necesito urgente.",2
+Sugiero que creen un programa de voluntariado para que podamos ayudar a la comunidad y poner en práctica lo que aprendemos.,3
+"Presento mi queja formal porque me robaron mi bicicleta del parqueadero, la seguridad es pésima y nadie responde por nada, ¡qué impotencia!",4
+"Sería genial que organizaran ferias de empleo para que los estudiantes podamos conocer empresas y oportunidades laborales, ¡sería muy útil!",3
+"Propongo que organicen más salidas de campo relacionadas con las diferentes carreras, ¡sería una forma de aprender de manera práctica!",3
+"Presento mi reclamo porque el internet de la universidad es pésimo, se cae a cada rato y no puedo hacer mis trabajos bien.",4
+Sugiero que creen un grupo de apoyo para estudiantes con problemas de ansiedad y estrés; la vida universitaria es muy dura y necesitamos ayuda psicológica.,3
+"Quiero que pongan más enchufes en las aulas, siempre tengo que buscar un rincón para cargar mi portátil y es súper incómodo.",2
+"No me parece justo que los profesores lleguen tarde a clase y nos hagan perder el tiempo, ¡uno viene hasta acá para aprender!",1
+"Estoy furioso porque me cobraron una multa por entregar un libro tarde a la biblioteca, ¡pero la biblioteca estaba cerrada ese día!",1
+"23. ""El comedor del campus debería ofrecer más opciones para los estudiantes que tienen prisa"".",1
+"Me siento estafado, compré un libro en la librería de la universidad y me cobraron más caro que en otras tiendas, exijo que me devuelvan la diferencia.",4
+"Presento un reclamo formal porque el profesor nunca llega a tiempo a clase, perdemos un montón de tiempo y no aprendemos nada.",4
+El acceso limitado a los asesores académicos me está haciendo sentir que no estoy recibiendo el apoyo académico que necesito.,1
+"20. ""El personal de la cafetería es siempre amable y servicial"".",1
+"Propongo crear un programa de mentorías para emprendedores, así podríamos recibir consejos y apoyo para nuestros proyectos.",3
+"Es importante que la universidad priorice la seguridad de todos los atletas, incluyendo la implementación de protocolos de seguridad adecuados y recursos para lesiones.",1
+"18. ""Me gustaría que hubiera más oportunidades para que los estudiantes se involucraran en proyectos de investigación y trabajaran con miembros de la facultad fuera del aula. Sería una gran manera de ganar experiencia práctica en mi campo"".",1
 "4. ""Aprecio los esfuerzos que realiza la universidad para proporcionar recursos a los estudiantes internacionales, pero a veces no llegan lo suficientemente lejos. Me gustaría que hubiera más servicios de apoyo lingüístico y eventos culturales para ayudarnos a sentirnos más como en casa"".",1
-Me siento como si estuviera compitiendo con demasiados otros candidatos por las pocas oportunidades de trabajo disponibles en mi campo.,1
-Me preocupa el impacto financiero a largo plazo de mis gastos médicos y préstamos estudiantiles.,1
+¿Podrían ofrecer cursos de idiomas en línea gratuitos para los estudiantes? Sería una excelente oportunidad para mejorar nuestro perfil profesional.,2
+"Propongo que creen un club de debate, así podríamos desarrollar nuestras habilidades de argumentación y aprender a defender nuestras ideas.",3
+"11. ""Siento que tengo que trabajar el doble de duro que otros estudiantes sólo para seguir el ritmo. Es agotador y estresante, y a veces me pregunto si vale la pena"".",1
+"10. ""A veces siento que mis antecedentes culturales son una barrera para hacer amigos y encajar con el resto del cuerpo estudiantil. Es difícil saber cómo cerrar esa brecha y encontrar un terreno en común con personas que tienen experiencias tan diferentes que yo.""",1
+"Me negaron la homologación de una materia que ya aprobé en otra universidad, exijo que revisen mi caso porque tengo todos los documentos.",4
+"3. ""La comida que se sirve en la cafetería no vale el precio. A menudo está poco cocida y las porciones son pequeñas.""",1
+"Me molesta que los profesores no respondan mis correos, tengo dudas sobre las tareas y necesito su ayuda.",1
+"25. ""El transporte público en mi ciudad no es accesible para estudiantes con discapacidades"".",1
+Quería saber si ofrecen algún tipo de apoyo psicológico para estudiantes que están pasando por momentos difíciles.,2
+"Necesito que pongan más enchufes en los salones, siempre estoy buscando un lugar para conectar mi computador y no encuentro.",2
+La falta de acceso a los recursos e instalaciones del campus es una desventaja importante para las clases en línea.,1
+"Me parece terrible que no haya suficientes bebederos de agua en el campus; uno siempre tiene que comprar botellas, ¡es un gasto innecesario!",1
+"Me quejo de la mala organización de los eventos deportivos, siempre hay problemas con las inscripciones y los horarios.",1
+La dificultad para encontrar y acceder a los materiales del curso está haciendo que sea difícil tener éxito en nuestras clases.,1
+"Sería genial que organizaran más eventos deportivos, como torneos y campeonatos, para fomentar la actividad física y la integración.",3
+"Me quejo de la falta de comunicación entre los profesores y la coordinación, nunca se sabe cuándo hay parciales o cambios de horario.",1
+Pido que implementen un sistema de evaluación docente más transparente. Quiero saber cómo puedo mejorar como estudiante.,2
+"Estoy harto de que los ascensores siempre estén fuera de servicio, tengo que subir diez pisos por las escaleras, ¡es una injusticia!",1
+"La oficina de ayuda financiera siempre está cambiando sus políticas, haciendo que sea difícil mantenerse al día.",1
+Sería chévere que organizaran más viajes de campo relacionados con las carreras. Así podríamos aplicar lo que aprendemos en clase a situaciones reales.,3
+"2. ""He tenido que viajar de los suburbios a la universidad todos los días, y el sistema de transporte público no es lo suficientemente confiable. He llegado tarde a clase varias veces debido a retrasos y cancelaciones"".",1
+"Hacer frente a una enfermedad crónica ya es bastante difícil, pero el estrés añadido de los gastos médicos es casi insoportable. Estoy constantemente preocupado por cómo voy a pagar por mi tratamiento.",1
+"19. ""Me preocupa que mis dificultades lingüísticas me hagan difícil establecer redes y conexiones profesionales. Es frustrante sentir que estoy en desventaja en comparación con los hablantes nativos"".",1
+"15. ""Aprecio la diversidad en el campus, pero a veces siento que hay una falta de comprensión entre los diferentes grupos culturales. Me gustaría que hubiera más oportunidades para que nos juntáramos y aprendiéramos unos de otros"".",1
+"Propongo que creen un programa de reciclaje en la universidad, para que podamos contribuir al cuidado del medio ambiente y reducir la contaminación.",3
+"Reclamo que no me hayan validado una materia que ya cursé en otra universidad, se supone que había un convenio, quiero una solución.",4
+"Propongo que creen un programa de mentorías entre estudiantes de diferentes semestres, ¡así podríamos ayudarnos mutuamente!",3
+"Propongo que se cree un espacio de coworking para estudiantes, así podríamos trabajar en nuestros proyectos en un ambiente colaborativo.",3
+El acceso limitado a bases de datos y materiales de investigación está haciendo que sea difícil completar tareas y escribir documentos.,1
+"Podrían poner más enchufes en los salones, a veces uno necesita cargar el portátil y no encuentra dónde conectarse.",2
+"Necesito que me ayuden a conseguir una beca para el próximo semestre, mis padres no pueden seguir pagando la universidad y no quiero dejar de estudiar.",2
+Desearía que hubiera más recursos disponibles para ayudar a los estudiantes con su presupuesto y planificación financiera.,1
+"Sugiero que hagan encuestas de satisfacción a los estudiantes sobre los servicios que ofrece la universidad, para saber qué mejorar.",3
+Solicito que instalen más iluminación en los senderos del campus. Da mucho miedo caminar solo por la noche porque está muy oscuro.,2
 "La carga de trabajo académica es abrumadora, y me resulta difícil mantenerme motivado y participar en mis estudios.",1
-"16. ""El sistema de transporte público a menudo está superpoblado y es ruidoso, lo que hace que sea difícil concentrarse en estudiar o realizar cualquier trabajo"".",1
-"La competencia por las pasantías disponibles y las vacantes de empleo es extremadamente alta, lo que dificulta aún más la obtención de empleo.",1
-"El material del curso es mucho más desafiante de lo que esperaba, y estoy luchando para entender los conceptos y las asignaciones completas.",1
-El número limitado de oportunidades de empleo está haciendo que sea difícil para mí construir una carrera exitosa después de la graduación.,1
+"Sería genial que ofrecieran talleres gratuitos sobre habilidades blandas, como comunicación o liderazgo. ¡Nos serviría mucho para el futuro!",2
+"12. ""Ojalá hubiera más oportunidades para practicar idiomas fuera del aula. Es difícil mejorar mis habilidades cuando no tengo muchas oportunidades de hablar con hablantes nativos"".",1
+Las instalaciones deportivas deben ser más accesibles y acogedoras para los estudiantes con discapacidad.,1
+Estoy luchando con problemas de salud mental que están haciendo que sea difícil centrarse en la escuela. Trabajo con un terapeuta para desarrollar estrategias de afrontamiento.,1
+Creo que sería interesante tener un club de lectura en la universidad. Sería una buena forma de compartir ideas y conocer gente.,3
+"Propongo crear un programa de intercambio con universidades en el extranjero, sería una experiencia increíble para ampliar nuestros horizontes y conocimientos.",3
+"Sugiero que creen una aplicación móvil para la universidad, donde podamos consultar horarios, notas, eventos y noticias de forma fácil y rápida.",3
+Es frustrante cuando no puedes acceder a bases de datos y materiales de investigación que necesitas para tus tareas porque solo están disponibles en la biblioteca y no puedes visitarla.,1
+Quisiera saber si van a ofrecer más talleres de habilidades blandas este semestre. Me parecen súper útiles para el futuro profesional y me gustaría participar.,2
+"Sugiero que creen un espacio para que los estudiantes podamos expresar nuestras ideas y propuestas, como un buzón de sugerencias virtual.",3
+"Deberían poner más puntos de reciclaje en el campus, ¡es importante que la universidad se preocupe por el medio ambiente!",3
+"Reclamo que no me hayan dado la nota que merecía en el examen, ¡estudié mucho y creo que me calificaron mal!",4
+2. La comida en el comedor es sosa e insípida.,1
+"El proceso de solicitud de ayuda financiera es tan complicado y lleva mucho tiempo, que casi no vale la pena.",1
+"28. ""Los postres en el cantín son siempre demasiado dulces e insalubres.""",1
+"Quisiera que pusieran más enchufes en los salones de clase. A veces uno necesita cargar el portátil y no encuentra dónde, qué problema.",2
+La falta de retroalimentación e interacción en persona con mis profesores hizo difícil mejorar mis habilidades y conocimientos.,1
+"Estoy harto de que los salones estén sucios y con los pupitres dañados, así da pereza estudiar, ¡por favor hagan algo al respecto!",1
+"16. ""He tenido que pedir dinero prestado a mis padres sólo para poder pagar el alquiler y los gastos de transporte"".",1
+"Exijo que revisen mi nota de cálculo; estoy seguro de que resolví bien el último ejercicio, y me calificaron como si no hubiera hecho nada, ¡qué injusticia!",4
+"Solicito que mejoren la señalización en el campus, es fácil perderse y no encontrar los salones de clase, sobre todo al principio.",2
+"38. ""La pizza en la cafetería está siempre mal cocida y empapada"".",1
+"Pido que instalen más bebederos de agua en los pasillos, hace mucho calor y no hay dónde hidratarse, es algo básico, por favor.",2
+¿Podrían ampliar el horario de atención de la oficina de bienestar universitario? A veces necesito hablar con un psicólogo y no alcanzo en la semana.,2
+La falta de oportunidades de trabajo y prácticas disponibles para los estudiantes en mi programa es decepcionante y preocupante.,1
+El acceso limitado a la tecnología y el software está obstaculizando mi capacidad de prepararme para mi futura carrera.,1
+"Estoy cansado de que los baños siempre estén sucios, deberían contratar a más personal de limpieza o al menos supervisar que se cumpla el horario.",1
+Sugiero fuertemente que organicen charlas con profesionales de diferentes áreas; nos ayudarían a orientarnos sobre nuestro futuro laboral.,3
+"Estoy harto de que los salones siempre estén llenos de gente y no haya sillas suficientes, ¡es incómodo y molesto!",1
+"Podrían poner un cajero automático dentro del campus, ¡a veces necesito efectivo y me toca salir hasta lejos para conseguir uno!",2
+El mercado de trabajo actual es tan competitivo que parece imposible encontrar oportunidades de empleo significativas.,1
+"Sugiero que creen un programa de voluntariado, sería una buena forma de ayudar a la comunidad y adquirir experiencia.",3
+El libro de texto para este curso está lleno de errores y errores. Es difícil aprender de algo que no es exacto.,1
+"Demando que se investigue el caso de acoso sexual que denunció una compañera, ¡no podemos permitir que esto siga pasando!",4
+El profesor de este curso es parcial y está afectando a mi grado.,1
+"Quiero pedir que instalen más bebederos de agua en los pasillos, porque siempre tengo sed y no quiero comprar botellas de plástico.",2
+25. Me he sentido inseguro en el comedor.,1
+"Sería genial que hubiera más actividades culturales en la universidad, como conciertos o obras de teatro, para despejarnos un poco de tanto estudio.",3
+"El costo de los libros de texto y otros materiales del curso es escandaloso, y está haciendo que sea difícil pagar mi educación.",1
+"Me parece pésimo que no haya suficientes computadores disponibles en la sala de informática, siempre toca esperar horas para poder usar uno.",1
+El proceso de ayuda financiera es tan abrumador que ni siquiera sé por dónde empezar.,1
+Me gustaría que hubiera más opciones para acceder a los materiales del curso en línea para que no tenga que ir físicamente a la biblioteca o librería cada vez que necesito algo.,1
+Estoy luchando para encontrar los materiales necesarios para mis cursos debido al acceso limitado disponible.,1
+"Exijo que me revisen la nota del parcial de cálculo, estoy seguro de que hay un error en la calificación, yo respondí correctamente varias preguntas.",4
+"Me siento perjudicado, perdí una materia por un error administrativo y ahora me toca repetirla, quiero que me exoneren de ese pago.",4
+"Qué falta de respeto que pongan música a todo volumen en la cafetería durante las horas de estudio, ¡no nos dejan concentrarnos!",1
+"8. ""Aprecio los esfuerzos de mis profesores para que el material sea accesible a los estudiantes internacionales, pero a veces parece que todavía hay una división entre nosotros y los estudiantes nacionales"".",1
+La falta de recursos para los atletas estudiantes es frustrante. Es difícil tener éxito en los deportes y académicos sin el apoyo adecuado.,1
+"Sugiero que hagan encuestas de satisfacción a los estudiantes sobre los profesores, así podrían mejorar la calidad de la enseñanza.",3
+"Necesito que pongan más enchufes en los salones, es imposible cargar mi portátil y tomar apuntes al mismo tiempo, es súper incómodo.",2
+Sería genial si ofrecieran talleres de inteligencia emocional para aprender a manejar el estrés y mejorar nuestras relaciones interpersonales.,3
+Sugiero que implementen un sistema de transporte interno en el campus; las distancias son muy largas y se pierde mucho tiempo caminando.,3
+"18. ""Las máquinas expendedoras en el campus a menudo están fuera de servicio, lo que hace difícil encontrar aperitivos y bebidas"".",1
+"El costo de mis gastos médicos es realmente abrumador. Incluso con mi seguro, todavía tengo que pagar tanto por las visitas al médico, medicamentos y tratamientos.",1
+"11. ""Me gustaría que hubiera más oportunidades para la recreación al aire libre, como kayak o camping. Sería genial poder escapar del campus y explorar la belleza natural de la zona.""",1
+"Sugiero que creen un programa de mentoría con profesionales de la industria, para que podamos aprender de su experiencia y recibir orientación.",3
