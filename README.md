@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto emplea el modelo **DistilBERT** para la clasificación de quejas de estudiantes sobre la infraestructura universitaria. El objetivo es entrenar un modelo de aprendizaje automático capaz de identificar y clasificar quejas en diferentes categorías basadas en el contenido textual de las quejas.
+Este proyecto emplea el modelo **DistilBERT** para la clasificación de PQRS de estudiantes universitarios. El objetivo es entrenar un modelo de aprendizaje automático capaz de identificar y clasificar quejas en diferentes categorías basadas en el contenido textual de las quejas.
 
 ## Estructura del Proyecto
 
