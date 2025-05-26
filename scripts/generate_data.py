@@ -4,9 +4,6 @@ import logging
 import pandas as pd
 from google import genai
 from pydantic import BaseModel
-from dotenv import load_dotenv
-import os
-load_dotenv()
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -14,7 +11,6 @@ logger = logging.getLogger(__name__)
 class Pqrs(BaseModel):
     pqrs: str
     label: int
-
 
 # Set up the Google GenAI client with the API key
 API_KEY = os.getenv("GEMINI_API_KEY")

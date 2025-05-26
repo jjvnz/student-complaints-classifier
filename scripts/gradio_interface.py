@@ -13,6 +13,7 @@ model = AutoModelForSequenceClassification.from_pretrained("fine-tuned-model")
 API_KEY = os.getenv("GEMINI_API_KEY")
 if not API_KEY:
     raise ValueError("GEMINI_API_KEY environment variable is not set.")
+
 client = genai.Client(api_key=API_KEY)
 
 def map_category(category_idx: int):
