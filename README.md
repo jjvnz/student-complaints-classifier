@@ -1,11 +1,10 @@
 # StudentComplaintsClassifier
 
-## Descripción
+## Description
 
-Este proyecto emplea el modelo **DistilBERT** para la clasificación de PQRS de estudiantes universitarios. El objetivo es entrenar un modelo de aprendizaje automático capaz de identificar y clasificar quejas en diferentes categorías basadas en el contenido textual de las quejas.
+This project uses the **DistilBERT** model to classify university student PQRS (Petitions, Complaints, Claims, and Suggestions). The goal is to train a machine learning model capable of identifying and categorizing complaints based on their textual content.
 
-## Estructura del Proyecto
-
+## Project Structure
 
 ```bash
 StudentComplaintsClassifier/
@@ -39,108 +38,108 @@ StudentComplaintsClassifier/
     ├── tokenizer_config.json
     ├── tokenizer.json
     └── vocab.txt
-
 ```
 
+* **`scripts/`**: Contains Python scripts for data processing and training.
 
-- **`scripts/`**: Contiene los scripts de Python para el procesamiento y entrenamiento.
-  - **`label_data.py`**: Script para etiquetar los datos.
-  - **`separate_dataset.py`**: Script para dividir los datos en conjuntos de entrenamiento y validación.
-  - **`run_tokenizer.py`**: Script para tokenizar los datos utilizando el tokenizer de DistilBERT.
-  - **`train_model.py`**: Script para entrenar el modelo DistilBERT con los datos tokenizados.
-- **`data/`**: Contiene los archivos CSV con quejas.
-  - **`university_students_complaints_es.csv`**: Archivo CSV con las quejas originales en español.
-  - **`university_students_complaints_labeled.csv`**: Archivo CSV con las quejas etiquetadas.
-  - **`university_students_complaints_train.csv`**: Archivo CSV con los datos de entrenamiento.
-  - **`university_students_complaints_val.csv`**: Archivo CSV con los datos de validación.
-- **`train_dataset/`**: Datos tokenizados para entrenamiento.
-- **`val_dataset/`**: Datos tokenizados para validación.
-- **`fine-tuned-model/`**: Contiene el modelo entrenado.
-- **`results/`**: Contiene los resultados de la evaluación del modelo.
-- **`README.md`**: Este archivo.
-- **`requirements.txt`**: Archivo con los requisitos del proyecto.
+  * **`label_data.py`**: Script for labeling data.
+  * **`separate_dataset.py`**: Script for splitting data into training and validation sets.
+  * **`run_tokenizer.py`**: Script for tokenizing data using the DistilBERT tokenizer.
+  * **`train_model.py`**: Script for training the DistilBERT model with tokenized data.
+* **`data/`**: Contains CSV files with complaints.
 
-## Requisitos
+  * **`university_students_complaints_es.csv`**: Original complaints in Spanish.
+  * **`university_students_complaints_labeled.csv`**: Labeled complaints file.
+  * **`university_students_complaints_train.csv`**: Training data file.
+  * **`university_students_complaints_val.csv`**: Validation data file.
+* **`train_dataset/`**: Tokenized data for training.
+* **`val_dataset/`**: Tokenized data for validation.
+* **`fine-tuned-model/`**: Contains the trained model.
+* **`results/`**: Contains the model evaluation results.
+* **`README.md`**: This file.
+* **`requirements.txt`**: Project dependencies file.
 
-- **Python 3.10** o superior
-- **transformers**
-- **datasets**
-- **pandas**
-- **scikit-learn**
-- **gradio**
+## Requirements
 
-Instala los requisitos utilizando `pip`:
+* **Python 3.10** or higher
+* **transformers**
+* **datasets**
+* **pandas**
+* **scikit-learn**
+* **gradio**
+
+Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## Instrucciones para Ejecutar el Proyecto
+## How to Run the Project
 
-### 1. Preparar los Datos
+### 1. Prepare the Data
 
-1. Genera datos datos ejecutando el script `scripts/generate_data.py`.
-2. Divide los datos en conjuntos de entrenamiento y validación, ejecutando el script `scripts/separate_dataset.py`.
+1. Generate data by running `scripts/generate_data.py`.
+2. Split the data into training and validation sets using `scripts/separate_dataset.py`.
 
-### 2. Tokenizar los Datos
+### 2. Tokenize the Data
 
-Ejecuta el script `scripts/run_tokenizer.py` para tokenizar los datos:
+Run the tokenizer script:
 
 ```bash
 python scripts/run_tokenizer.py
 ```
 
-### 3. Entrenar el Modelo
+### 3. Train the Model
 
-Ejecuta el script `scripts/train_model.py` para entrenar el modelo:
+Train the DistilBERT model:
 
 ```bash
 python scripts/train_model.py
 ```
 
-### 4. Guardar el Modelo Entrenado
+### 4. Save the Trained Model
 
-El modelo entrenado se guardará en el directorio `./fine-tuned-model`.
+The trained model will be saved in the `./fine-tuned-model` directory.
 
-### 5. Correr modelo con Gradio
+### 5. Run the Gradio Interface
+
+Launch the Gradio app to test the model:
 
 ```bash
 python scripts/gradio_interface.py
 ```
 
-Abre la url http://localhost:7860 en el navegador.
+Open [http://localhost:7860](http://localhost:7860) in your browser.
 
+## Results
 
-## Resultados
+The model is evaluated during training, and the results are stored in the `./results` directory.
 
-El modelo será evaluado durante el proceso de entrenamiento, y los resultados se guardarán en el directorio `./results`.
+## Model Evaluation
 
+After training, the model was evaluated on the validation dataset. The results were:
 
-## Evaluación del Modelo
+* **Precision**: 1.00
+* **Recall**: 1.00
+* **F1-Score**: 1.00
+* **Accuracy**: 1.00
 
-Después de entrenar el modelo, se realizó una evaluación utilizando el conjunto de validación. Los resultados fueron:
+These results indicate perfect performance on the validation set.
 
-- **Precisión**: 1.00
-- **Recall**: 1.00
-- **F1-Score**: 1.00
-- **Exactitud (Accuracy)**: 1.00
+## Contributions
 
-Estos resultados indican un rendimiento perfecto en el conjunto de validación. 
+Contributions are welcome! Please follow these steps to contribute:
 
-## Contribuciones
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/new-feature`).
+3. Make your changes and commit them (`git commit -am 'Add new feature'`).
+4. Push your changes (`git push origin feature/new-feature`).
+5. Open a Pull Request.
 
-Las contribuciones son bienvenidas. Por favor, sigue estos pasos para contribuir:
+## License
 
-1. Haz un fork del repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`).
-3. Realiza tus cambios y haz commit (`git commit -am 'Añadir nueva funcionalidad'`).
-4. Empuja los cambios a tu fork (`git push origin feature/nueva-funcionalidad`).
-5. Crea un Pull Request.
+This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
 
-## Licencia
+## Contact
 
-Este proyecto está licenciado bajo la **Licencia MIT**. Consulta el archivo `LICENSE` para más detalles.
-
-## Contacto
-
-Si tienes preguntas o comentarios, puedes contactarme a través de [jjvnz.dev@outlook.com](mailto:jjvnz.dev@outlook.com).
+For questions or feedback, contact me at [jjvnz.dev@outlook.com](mailto:jjvnz.dev@outlook.com).
